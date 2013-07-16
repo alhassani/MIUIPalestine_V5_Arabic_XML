@@ -5,7 +5,7 @@
   <string name="airplane_error_msg">لا يمكنك استخدام البلوتوث في وضع الطيران.</string>
   <string name="airplane_error_title">وضع الطيران</string>
   <string name="app_name">مشاركة بلوتوث</string>
-  <string name="app_name_bpp">Bluetooth BPP</string>
+  <string name="app_name_bpp">BPP بلوتوث</string>
   <string name="auth_notif_message">اكتب مفتاح الجلسة لـ %1$s</string>
   <string name="auth_notif_ticker">طلب مصادقة Obex</string>
   <string name="auth_notif_title">مفتاح الجلسة مطلوب لـ PBAP</string>
@@ -21,7 +21,8 @@
   <string name="bt_enable_line1">لاستخدم خدمات البلوتوث، يجب أولاً تشغيل البلوتوث.</string>
   <string name="bt_enable_line2">هل تريد تشغيل البلوتوث الآن؟</string>
   <string name="bt_enable_ok">تشغيل</string>
-  <string name="bt_enable_title"/>
+  <string name="bt_enable_title">
+  </string>
   <string name="bt_error_btn_ok">موافق</string>
   <string name="bt_share_picker_label">بلوتوث</string>
   <string name="bt_sm_2_1">لا توجد مساحة كافية على وحدة تخزين USB لحفظ الملف من \"%1$s\"</string>
@@ -45,7 +46,8 @@
   <string name="download_line1">من: \"%1$s\"</string>
   <string name="download_line2">اسم الملف: %1$s</string>
   <string name="download_line3">حجم الملف: %1$s</string>
-  <string name="download_line4"/>
+  <string name="download_line4">
+  </string>
   <string name="download_line5">جارٍ استلام الملف...</string>
   <string name="download_ok">موافق</string>
   <string name="download_succ_line5">تم استلام الملف</string>
@@ -88,6 +90,9 @@
   <string name="map_notif_title">مفتاح الجلسة مطلوب للخريطة</string>
   <string name="map_session_key_dialog_header">مفتاح جلسة بلوتوث مطلوب</string>
   <string name="map_session_key_dialog_title">ادخل مفتاح الجلسة لـ %1$s</string>
+  <string name="miui_transfer_history_title">محفوظات منقولات بلوتوث</string>
+  <string name="miui_transfer_inbound_title">وارد</string>
+  <string name="miui_transfer_outbound_title">صادر</string>
   <string name="no_transfers">سجل النقل فارغ.</string>
   <string name="not_exist_file">ليست هناك أية ملفات</string>
   <string name="not_exist_file_desc">الملف غير موجود.</string>
@@ -113,9 +118,11 @@
   <string name="permlab_bluetoothShareManager">الدخول إلى إدارة التنزيل.</string>
   <string name="permlab_bluetoothWhitelist">إضافة وصول جهاز بلوتوث إلى القائمة البيضاء.</string>
   <string name="permlab_handoverStatus">استلام عمليات البث المتعلقة بنقل إمكانية التحكم عبر البلوتوث.</string>
-  <string name="process"/>
+  <string name="process">
+  </string>
   <string name="share_prepare">تحضير مشاركة بلوتوث</string>
-  <string name="sharedUserId"/>
+  <string name="sharedUserId">
+  </string>
   <string name="start_server">بدء خادم TCP</string>
   <string name="status_bpp_aborted_by_printer">فشلت الطباعة، تم الالغاء من قبل الطابعة</string>
   <string name="status_bpp_canceled_by_user">فشلت الطباعة، تم الالغاء من قبل المستخدم</string>
@@ -158,13 +165,13 @@
   <string name="unknown_file_desc">ليس هناك تطبيق لمعالجة هذا النوع من الملفات.</string>
   <string name="update_record">تأكيد السجل</string>
   <string name="upload_fail_cancel">الغاء</string>
-  <string name="upload_fail_line1">لم يتم ارسال الملف الى \"%1$s\.</string>
+  <string name="upload_fail_line1">لم يتم الارسال الى \"%1$s\"."</string>
   <string name="upload_fail_line1_2">الملف: %1$s</string>
-  <string name="upload_fail_ok">حاول مره اخرى</string>
+  <string name="upload_fail_ok">اعادة</string>
   <string name="upload_line1">الى: \"%1$s\"</string>
   <string name="upload_line3">نوع الملف: %1$s (%2$s)</string>
-  <string name="upload_line5">جاري ارسال الملف...</string>
-  <string name="upload_succ_line5">تم ارسال الملف!</string>
+  <string name="upload_line5">يتم ارسال الملف...</string>
+  <string name="upload_succ_line5">اكتمل الارسال</string>
   <string name="upload_succ_ok">موافق</string>
   <string name="upload_success">اكتمل ارسال %1$s</string>
 </resources>
