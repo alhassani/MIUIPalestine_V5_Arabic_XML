@@ -147,7 +147,6 @@
   <string name="HIPS_Perm_SendSMS_SMSC_Default">مركز الرسائل الافتراضي</string>
   <string name="HIPS_Perm_SendSMS_Text">إرسال رسالة إلى %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">إسكات الرنين</string>
-  <string name="HIPS_Perm_Title">العنوان</string>
   <string name="HIPS_Perm_WIFINetwork">شبكة Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">شبكة Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s تطبيق مسموح له الوصول للإنترنت عبر Wi-Fi</string>
@@ -183,7 +182,7 @@
   <string name="Su_Unavailable">اذونات ROOT معطلة على النسخ الثابتة. يرجى تثبيت نسخة تجريبية لتفعيل اذونات ROOT.</string>
   <string name="SysOpt_Boost_AutoStart">تصاريح البدء التلقائي</string>
   <string name="SysOpt_Boost_AutoStart_Group">البدء التلقائي</string>
-  <string name="SysOpt_Boost_Boot">بدء التشغيل</string>
+  <string name="SysOpt_Boost_Boot">الاقلاع</string>
   <string name="SysOpt_Boost_Receiver">الخلفية</string>
-  <string name="app_name">LBE Guard</string>
+  <string name="app_name">الحماية</string>
 </resources>
