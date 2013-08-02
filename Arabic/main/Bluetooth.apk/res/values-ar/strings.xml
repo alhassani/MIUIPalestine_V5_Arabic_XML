@@ -21,8 +21,7 @@
   <string name="bt_enable_line1">لاستخدم خدمات البلوتوث، يجب أولاً تشغيل البلوتوث.</string>
   <string name="bt_enable_line2">هل تريد تشغيل البلوتوث الآن؟</string>
   <string name="bt_enable_ok">تشغيل</string>
-  <string name="bt_enable_title">
-  </string>
+  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">موافق</string>
   <string name="bt_share_picker_label">بلوتوث</string>
   <string name="bt_sm_2_1">لا توجد مساحة كافية على وحدة تخزين USB لحفظ الملف من \"%1$s\"</string>
@@ -46,8 +45,7 @@
   <string name="download_line1">من: \"%1$s\"</string>
   <string name="download_line2">اسم الملف: %1$s</string>
   <string name="download_line3">حجم الملف: %1$s</string>
-  <string name="download_line4">
-  </string>
+  <string name="download_line4"/>
   <string name="download_line5">جارٍ استلام الملف...</string>
   <string name="download_ok">موافق</string>
   <string name="download_succ_line5">تم استلام الملف</string>
