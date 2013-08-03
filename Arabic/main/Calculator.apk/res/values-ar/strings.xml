@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="advanced">اللوحة المتقدمة</string>
   <string name="app_name">الحاسبة</string>
@@ -28,7 +28,7 @@
   <string name="e">e</string>
   <string name="eDesc">"Euler's number"</string>
   <string name="e_mathematical_value">e</string>
-  <string name="enter">↓</string>
+  <string name="enter">?</string>
   <string name="equal">=</string>
   <string name="equalDesc">equals</string>
   <string name="equal_on_history">=</string>
@@ -43,11 +43,11 @@
   <string name="ln">ln</string>
   <string name="lnDesc">natural logarithm</string>
   <string name="ln_mathematical_value">ln</string>
-  <string name="minus">−</string>
+  <string name="minus">?</string>
   <string name="minusDesc">minus</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiply</string>
-  <string name="pi">π</string>
+  <string name="pi">?</string>
   <string name="piDesc">pi</string>
   <string name="plus">+</string>
   <string name="plusDesc">plus</string>
@@ -59,7 +59,7 @@
   <string name="sin">sin</string>
   <string name="sinDesc">sine</string>
   <string name="sin_mathematical_value">sin</string>
-  <string name="sqrt">√</string>
+  <string name="sqrt">?</string>
   <string name="sqrtDesc">square root</string>
   <string name="standard">standard</string>
   <string name="tan">tan</string>

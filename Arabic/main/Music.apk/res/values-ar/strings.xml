@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="add">اضف</string>
   <string name="add_to">اضف الى</string>
@@ -41,6 +41,7 @@
   <string name="confirm">تأكيد</string>
   <string name="correct_id3_by_internet">تصحيح ID3 بشكل تلقائي عبر شبكات المحمول</string>
   <string name="correct_id3_failed">فشل تصحيح معلومات ID3</string>
+  <string name="correct_id3_in_processing">تصحيح معلومات ID3 للاغنية</string>
   <string name="correct_id3_not_support">تصحيح معلومات ID3 غير مدعوم لهذا النوع من الملفات.</string>
   <string name="correct_id3_open_other_connect">يرجى تفعيل تصحيح معلومات ID3 عبر شبكات المحمول</string>
   <string name="correct_id3_settings">تصحيح ID3</string>
@@ -70,7 +71,6 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="edit_playlist_menu">Edit</string>
   <string name="empty_edit_hint">معلومات الاغنية غير متوفرة</string>
   <string name="emptyplaylist">قائمة التشغيل المحددة فارغة.</string>
   <string name="enter_sleep_mode">الدخول في وضع الايقاف</string>
@@ -159,8 +159,8 @@
   <string name="no_song_downloaded">لا يمكن تنزيل الاغنية</string>
   <string name="not_selected">يرجى تحديد اغنية</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
-  <string name="online_music">الموسيقى على الانترنت</string>
   <string name="online_search_hint">البحث عن موسيقى على الانترنت</string>
+  <string name="online_title">Online</string>
   <string name="other_settings">اخرى</string>
   <string name="overwrite_confirm">استبدال</string>
   <string name="play_all">تشغيل الكل</string>
@@ -176,11 +176,13 @@
   <string name="playlist_deleted_message">تم حذف القائمة.</string>
   <string name="playlist_favorite">المفضلة</string>
   <string name="playlist_frequently_played">الاكثر تشغيلاً</string>
-  <string name="playlist_new">انشاء قائمة تشغيل جديدة</string>
   <string name="playlist_recently_added">المضافة حديثًا</string>
   <string name="playlist_recently_played">المشغلة حديثًا</string>
   <string name="playlist_renamed_message">تم اعادة تسمية القائمة.</string>
   <string name="playlists_title">قوائم التشغيل</string>
+  <string name="powered_by">بدعم من</string>
+  <string name="project_device">Xiaomi MiBox</string>
+  <string name="project_device_mobile">Mobile device</string>
   <string name="queue">قائمة التشغيل الخالية</string>
   <string name="quit_player">خروج</string>
   <string name="quit_warining">سيتم ايقاف المشغل خلال %d دقيقة</string>
@@ -196,7 +198,9 @@
   <string name="rename_album_menu">اعادة تسمية الالبوم</string>
   <string name="rename_artist_menu">اعادة تسمية الفنان</string>
   <string name="rename_playlist_menu">اعادة تسمية</string>
+  <string name="retry">اعادة</string>
   <string name="ringtone_menu">تعيين كنغمة رنين</string>
+  <string name="ringtone_not_support">صيغة النغمة غير مدعومة</string>
   <string name="ringtone_set">\"%s\" ضبط كنغمة رنين.</string>
   <string name="save">حفظ</string>
   <string name="scanning">يتم فحص بطاقة SD...</string>
@@ -217,28 +221,28 @@
   <string name="select_folder">تحديد مجلد</string>
   <string name="select_quit_time">اضبط المؤقت لايقاف المشغل (بالدقائق)</string>
   <string name="send_to">ارسال الى</string>
-  <string name="send_to_application">ارسال الى تطبيق اخر</string>
-  <string name="shake_and_skip">الاهتزاز للتخطي</string>
-  <string name="shake_degree_desc">حساسية الاهتزاز</string>
-  <string name="shake_degree_high">عالية</string>
-  <string name="shake_degree_low">منخفضة</string>
-  <string name="shake_settings">هز الجهاز للتخطي</string>
-  <string name="shake_summary">قم بهز الهاتف للانتقال للاغنية السابقة</string>
+  <string name="send_to_application">ارسل الى تطبيق اخر</string>
+  <string name="shake_and_skip">الرج للانتقال</string>
+  <string name="shake_degree_desc">حساسية الرج</string>
+  <string name="shake_degree_high">مرتفع</string>
+  <string name="shake_degree_low">منخفض</string>
+  <string name="shake_settings">الرج للانتقال</string>
+  <string name="shake_summary">رج الجهاز للانتقال للاغنية التالية</string>
   <string name="shake_while_screen_on_title">الانتقال عند تشغيل الشاشة فقط</string>
-  <string name="shake_while_screen_on_title_summary">الانتقال عند تشغيل الشاشة فقط. لتجنب الانتقال اثناء المشي او غيرة.</string>
-  <string name="shuffle_all">خلص الكل</string>
-  <string name="sort_by_album">الالبومات</string>
-  <string name="sort_by_artist">الفنانون</string>
-  <string name="sort_by_track">المسارات</string>
-  <string name="start_to_download_album">تنزيل صور الالبوم للاغاني في المكتبة الخاصة بك</string>
-  <string name="start_to_download_avatar">يتم تنزيل صورة الفنان لمكتبة الموسيقى الخاصة بك</string>
-  <string name="streamloadingtext">يتم الاتصال بـ %s</string>
+  <string name="shake_while_screen_on_title_summary">الرج للانتقال عند تشغيل الشاشة. تجنب الانتقال الخاطء اثناء المشي وغيرة.</string>
+  <string name="shuffle_all">خلط الكل</string>
+  <string name="sort_by_album">البومات</string>
+  <string name="sort_by_artist">فنانون</string>
+  <string name="sort_by_track">مسارات</string>
+  <string name="start_to_download_album">تنزيل صورة الالبوم لمكتبة الموسيقى</string>
+  <string name="start_to_download_avatar">تنزيل صورة الفنان لمكتبة الموسيقى</string>
+  <string name="streamloadingtext">متصل مع %s</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">اغنية</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">جميع الاغاني</string>
   <string name="unknown_album_name">البوم غير معروف</string>
   <string name="unknown_artist_name">فنان غير معروف</string>
-  <string name="use_local_album">استخدم صورة الالبوم المحفوظة</string>
-  <string name="use_local_lyric">استخدم كلمات الاغنية المحفوظة</string>
+  <string name="use_local_album">استخدم صورة محفوظة</string>
+  <string name="use_local_lyric">استخدم كلمات محفوظة</string>
 </resources>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="account_bind_prompt">ترحيل بيانات المستخدم، سيتم اقفال حسابك مؤقتا. يرجى الانتظار...</string>
   <string name="add_task">اضف مهمة</string>
@@ -42,7 +42,7 @@
   <string name="clean_trash_box">إفراغ سلة المهملات</string>
   <string name="cleaned">اكتمل التنظيف</string>
   <string name="cleaning">يتم التنظيف...</string>
-  <string name="cleanup_complete">اكتمل التطيف</string>
+  <string name="cleanup_complete">اكتمل التنظيف</string>
   <string name="cleanup_stopped">توقف التنظيف</string>
   <string name="close">إغلاق</string>
   <string name="compress_fail">فشل الضغط، الوجهة موجودة مسبقا</string>

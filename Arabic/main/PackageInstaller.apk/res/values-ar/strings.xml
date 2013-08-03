@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Parse_error_dlg_text">حدثت مشكلة أثناء تحليل الحزمة.</string>
   <string name="Parse_error_dlg_title">خطأ في التحليل</string>
