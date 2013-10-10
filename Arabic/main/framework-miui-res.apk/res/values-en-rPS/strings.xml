@@ -44,7 +44,6 @@
   <string name="first_back_long_press_message">هل تريد تفعيل ميزة الضغط المطول على زر العودة لفرض ايقاف العملية الحالية وخدماتها في الخلفية؟ التفعيل عبر الضبط &lt; النظام &lt; اعدادات الازرار</string>
   <string name="force_exit_message">تم اغلاق \"%1$s\"</string>
   <string name="forget_password_string">نسيت كلمة المرور</string>
-  <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">في الوضع المحمي، سيتم اخفاء: المكالمات، الملاحظات، بيانات المعرض والرسائل والشاشة الرئيسية لن تدخل في وضع التحرير. تستطيع ضبط كلمة مرور لحماية الوضع المحمي في اعدادات التحكم بالوصول.</string>
   <string name="global_action_toggle_privacy_mode">الحارس</string>
   <string name="group_name_contacts">جهات الاتصال</string>
