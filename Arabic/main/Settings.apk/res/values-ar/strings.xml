@@ -2086,7 +2086,7 @@ Attempts Remaining :"</string>
   <string name="wifi_eap_user_cert">User certificate</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn Wi-Fi on.</string>
   <string name="wifi_empty_list_wifi_on">Searching for Wi-Fi networks...</string>
-  <string name="wifi_enable">Enable Wi-Fi</string>
+  <string name="wifi_enable">تمكين Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Use Wi-Fi network only when internet connection is strong</string>
   <string name="wifi_error">Error</string>
   <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
@@ -2171,10 +2171,10 @@ Attempts Remaining :"</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi frequency band</string>
   <string name="wifi_setting_sleep_policy_error">There was a problem changing the setting</string>
   <string name="wifi_setting_sleep_policy_title">Keep Wi-Fi on during sleep</string>
-  <string name="wifi_settings">Wi-Fi Settings</string>
-  <string name="wifi_settings_category">Wi-Fi settings</string>
+  <string name="wifi_settings">إعدادات WiFi</string>
+  <string name="wifi_settings_category">إعدادات WiFi</string>
   <string name="wifi_settings_summary">Set up &amp; manage wireless access points</string>
-  <string name="wifi_settings_title">Wi-Fi Settings</string>
+  <string name="wifi_settings_title">إعدادات WiFi</string>
   <string name="wifi_setup_add_network">Add network</string>
   <string name="wifi_setup_back">Back</string>
   <string name="wifi_setup_cancel">Cancel</string>
