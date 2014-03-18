@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="activity_not_found">لم يتم تثبيت التطبيق على الهاتف.</string>
-  <string name="application_name">MiuiHome</string>
   <string name="aqi_quality_index_dangerous">خطر</string>
   <string name="aqi_quality_index_good">جيد</string>
   <string name="aqi_quality_index_hazardous">مخاطر</string>
@@ -20,9 +19,7 @@
   <string name="default_folder_title_recommend">مستحسن</string>
   <string name="default_folder_title_security">مركز الأمان</string>
   <string name="default_folder_title_tools">أدوات</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$2d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="default_name">الافتراضي</string>
   <string name="edit_folder_title">تعديل عنوان المجلد</string>
   <string name="editing_tips">إضافة أو تحرير الأداة</string>
   <string name="emptyplaylist">قائمة التشغيل فارغة</string>
@@ -66,7 +63,6 @@
   <string name="gadget_weather_loading">لا توجد بيانات الطقس</string>
   <string name="gadget_weather_low_temp">حرارة منخفضة</string>
   <string name="gadget_weather_theme_type">نوع الاداة</string>
-  <string name="gadget_weather_time_format">d/MM EEE</string>
   <string name="gadget_weather_title_14">الطقس 1×4</string>
   <string name="gadget_weather_title_24">الطقس 2×4</string>
   <string name="global_search_hint">أدخل كلمة للبحث</string>
@@ -74,18 +70,20 @@
   <string name="group_live_folders">المجلدات</string>
   <string name="group_shortcuts">الاختصارات</string>
   <string name="guide_install_app_msg">التطبيق غير مثبت. البحث عن التطبيق في المتجر الان؟</string>
-  <string name="guide_install_app_title">Install App</string>
+  <string name="guide_install_app_title">تثبيت تطبيق</string>
   <string name="guide_tips_editing_mode">المس مع الاستمرار على الإدوات إدناة لسحبها على الشاشة</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="install">تثبيت</string>
   <string name="invalid_contact_shortcut">اختصار جهة الاتصال غير صالحة</string>
   <string name="loading_desktop">يتم التحميل...</string>
+  <string name="maml_component_customization_title">اعدادات العنصر</string>
   <string name="menu_add">إضافة</string>
   <string name="menu_back_desktop">الرجوع للشاشة</string>
+  <string name="menu_customize">تخصيص الاعدادات</string>
   <string name="menu_edit">تعديل القوائم</string>
   <string name="menu_exit_scene">إنهاء سطح المكتب الحر</string>
   <string name="menu_item_add_item">إضافة إلى الشاشة الرئيسية</string>
   <string name="menu_launcher_setting">إعدادات السمة</string>
+  <string name="menu_picktheme">إختر سمة</string>
   <string name="menu_reset_scene">إعادة تعيين المشهد إلى الافتراضي</string>
   <string name="menu_search">بحث</string>
   <string name="menu_settings">إعدادات</string>
@@ -121,14 +119,14 @@
   <string name="pref_wallpaper_scroll_type_title">نوع تمرير خلفية الشاشة</string>
   <string name="preferences_general_title">الاعدادت العامة</string>
   <string name="preferences_title">اعدادات الشاشة</string>
-  <string name="process" />
   <string name="reset_scene_prompt">سيتم الاستاعدة للترتيب الافتراضي</string>
+  <string name="resource_select">إختر</string>
   <string name="screen_button_disabled_message">الازرار في اسفل الشاشه معطلات. للتفعيل اضغط زر الرئيسية والطاقه معاً</string>
   <string name="screen_button_enabled_message">الازرار في اسفل الشاشه مفعلات</string>
   <string name="screen_rotation_freeze_message">تم قفل الدوران بالوضع الافقي</string>
+  <string name="scroll_tip_format_when_announce_accessibility">الصفحة %1$d, %2$d تطبيق</string>
   <string name="select_frame">اطار</string>
   <string name="select_photo">صورة</string>
-  <string name="sharedUserId" />
   <string name="sort_by_abc">ترتيب حسب الاسم</string>
   <string name="sort_by_frequency">ترتيب حسب الاستخدام</string>
   <string name="sort_by_not_defined">الترتيب الافتراضي</string>
@@ -142,7 +140,6 @@
   <string name="status_bar_toggle_divider">المزيد</string>
   <string name="status_bar_toggle_drive_mode">قيادة</string>
   <string name="status_bar_toggle_flight_mode">طيران</string>
-  <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">قفل</string>
   <string name="status_bar_toggle_mute">صامت</string>
   <string name="status_bar_toggle_network_type">الشبكة</string>
@@ -151,6 +148,7 @@
   <string name="status_bar_toggle_power_mid">عادي</string>
   <string name="status_bar_toggle_power_mode">وضع الطاقة</string>
   <string name="status_bar_toggle_privacy_mode">الحارس</string>
+  <string name="status_bar_toggle_quiet_mode">DND</string>
   <string name="status_bar_toggle_reboot">اعادة تشغيل</string>
   <string name="status_bar_toggle_ring">رنين</string>
   <string name="status_bar_toggle_ringtone">النغمات</string>
@@ -164,7 +162,6 @@
   <string name="status_bar_toggle_syncing">المزامنة</string>
   <string name="status_bar_toggle_torch">الكشاف</string>
   <string name="status_bar_toggle_vibrate">رجاج</string>
-  <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">نقطة وصول Wi-Fi</string>
   <string name="title_select_live_folder">اختر مجلد</string>
   <string name="title_select_shortcut">اختر اختصار</string>
@@ -173,19 +170,19 @@
   <string name="transformation_type_classic">كلاسيكي</string>
   <string name="transformation_type_classic_no_overshoot">كلاسيكي (بدون ارتداد)</string>
   <string name="transformation_type_crossfade">تقاطع</string>
-  <string name="transformation_type_cube">مكعب ثلاثي الابعاد</string>
-  <string name="transformation_type_falldown">سقوط</string>
+  <string name="transformation_type_cube">مربع 3D</string>
+  <string name="transformation_type_falldown">إسقاط</string>
   <string name="transformation_type_leftpage">صفحة</string>
   <string name="transformation_type_rotate">دوران</string>
   <string name="transformation_type_stack">تتالي</string>
   <string name="uninstall">ازالة</string>
-  <string name="uninstall_dialog_message">الازالة ستسبب مسح البيانات</string>
-  <string name="uninstall_dialog_title_format">ازالة \"%s\"</string>
+  <string name="uninstall_dialog_message">سيتم ازالة كافة البيانات</string>
+  <string name="uninstall_dialog_title_format">أزالة \"%s\"</string>
   <string name="unknown_artist_name">فنان غير معروف</string>
-  <string name="unnamed_folder_name">بدون عنوان</string>
+  <string name="unnamed_folder_name">مجلد جديد</string>
   <string name="wallpaper_scrolling">الكل</string>
   <string name="widget_favorite_contacts_edit">المحرر</string>
-  <string name="widget_favorite_contacts_label">جهات الاتصال المفضلة</string>
+  <string name="widget_favorite_contacts_label">جهات الاتصال المفضله</string>
   <string name="widget_favorite_contacts_style">تغيير الحجم</string>
   <string name="widget_gadget_player">الموسيقى</string>
   <string name="widget_global_search">البحث</string>

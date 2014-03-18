@@ -6,7 +6,6 @@
     </string-array>
     <string-array name="system_package_label">
         <item>المتصفح</item>
-        <item>متصفح الملفات</item>
         <item>المعرض</item>
         <item>مدير الاذونات</item>
 		<item>الكاميرا</item>
@@ -19,10 +18,10 @@
         <item>سجل المكالمات</item>
         <item>الرسائل</item>
         <item>رسائل الوسائط</item>
-        <item>اعدادات النظام</item>
-        <item>اعدادات Wi-Fi</item>
+        <item>إعدادات النظام</item>
+        <item>إعدادات Wi-Fi</item>
         <item>سطح المكتب</item>
-        <item>اعدادات المنبة</item>
+        <item>إعدادات المنبة</item>
         <item>الملاحظات</item>
         <item>عدم الازعاج</item>
         <item>الحساب</item>
@@ -36,12 +35,12 @@
         <item>جهات الاتصال</item>
         <item>سجل المكالمات</item>
         <item>الرسائل</item>
-        <item>اعدادات Wi-Fi</item>
+        <item>إعدادات Wi-Fi</item>
         <item>الملاحظات</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>جهات الاتصال</item>
-        <item>اعدادات Wi-Fi</item>
+        <item>إعدادات Wi-Fi</item>
         <item>الملاحظات</item>
     </string-array>
     <string-array name="cloud_sim_data">

@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="action_submit">ارسال</string>
   <string name="app_label">التعليقات</string>
   <string name="btn_send">إرسال</string>
+  <string name="bugreport_feedback_from">من: %s</string>
   <string name="description">الوصف (مطلوب)</string>
   <string name="discard_draft_dialog_button_cancel">الغاء</string>
   <string name="discard_draft_dialog_button_discard">موافق</string>
@@ -25,7 +26,7 @@
   <string name="network_unavailable_dialog_content">سيتم ارسال تعليقاتك عند اتصال الشبكة</string>
   <string name="network_unavailable_dialog_title">الشبكة غير متوفرة</string>
   <string name="packaging_dialog_content">جاري تحضير التقرير، يرجى الانتظار...</string>
-  <string name="report_miui">تقرير إلى MIUI</string>
+  <string name="report_miui">إرسال إلى MIUI</string>
   <string name="section_description">الوصف</string>
   <string name="section_err_type">نوع التعليق</string>
   <string name="section_screenshot">صورة</string>

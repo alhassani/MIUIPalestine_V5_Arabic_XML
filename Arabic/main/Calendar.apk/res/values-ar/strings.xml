@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="accessibility_add_attendee">إضافة أحد الحضور</string>
   <string name="accessibility_add_reminder">إضافة تذكير</string>
-  <string name="accessibility_all_day">حدث اليوم كله</string>
+  <string name="accessibility_all_day">طوال اليوم</string>
   <string name="accessibility_pick_end_date">تاريخ الانتهاء</string>
   <string name="accessibility_pick_end_time">وقت الانتهاء</string>
   <string name="accessibility_pick_start_date">تاريخ البدء</string>
@@ -16,6 +16,8 @@
   <string name="accessibility_remove_reminder">إزالة التذكير</string>
   <string name="accessibility_repeats">التكرار</string>
   <string name="accessibility_sync_cal">مزامنة التقويم</string>
+  <string name="account_and_calendar">الحساب والتقويم</string>
+  <string name="account_and_calendar_to_display">الحساب والتقويم للعرض</string>
   <string name="accounts">الحسابات والمزامنة</string>
   <string name="acct_not_synced">لم تتم مزامنة هذا الحساب ولذلك قد لا تكون تقويماتك محدثة.</string>
   <string name="acessibility_cal_notification">إشعار التقويم</string>
@@ -31,34 +33,27 @@
   <string name="attendees_label">المدعوون</string>
   <string name="birthday_calendar_display_name">مذكر اعياد الميلاد</string>
   <string name="birthday_event_description">اليوم عيد ميلاد %1$s</string>
-  <string name="birthday_event_description_detail_leap">
-  </string>
-  <string name="birthday_event_description_detail_smart">
-  </string>
-  <string name="birthday_notification_age_term">
-  </string>
   <string name="birthday_notification_text_three_days_later">باقي 3 ايام على عيد ميلاد %3$s</string>
   <string name="birthday_notification_text_today">لا تنسى ان تتمنى عيد ميلاد سعيد!</string>
   <string name="birthday_notification_title_three_days_later">اقترب عيد ميلاد %1$s</string>
   <string name="birthday_notification_title_today">عيد ميلاد %1$s</string>
-  <string name="birthday_notification_type_term_lunar">
-  </string>
+  <string name="button_day">ي</string>
+  <string name="button_month">ش</string>
   <string name="calendar_refresh">تحديث</string>
   <string name="change_response_title">تغيير الرد</string>
   <string name="copy_db">إرسال قاعدة البيانات</string>
   <string name="copy_email">نسخ البريد</string>
   <string name="copy_number">نسخ رقم الهاتف</string>
   <string name="create_an_account_desc">"يعمل التقويم بشكل أفضل مع حساب Google.‏
-
 • يمكنك الدخول إليه من أي متصفح ويب
 • يمكنك نسخ أحداثك احتياطيًا بشكل آمن"</string>
   <string name="creating_event">تم إنشاء الحدث.</string>
   <string name="creating_event_with_guest">سيتم إرسال الدعوات.</string>
   <string name="custom">مخصص (يتعذر التخصيص على الهاتف)</string>
   <string name="daily">يوميًا</string>
-  <string name="date_time_fmt" formatted="false">%s، %s</string>
   <string name="day_view">يوم</string>
   <string name="day_view_new_event_hint">+ حدث جديد</string>
+  <string name="default_reminder_mode">وضع التنبية الافتراضي</string>
   <string name="delete_label">حذف</string>
   <string name="delete_recurring_event_title">هل تريد حذف %s؟</string>
   <string name="delete_this_event_title">هل تريد حذف هذا الحدث؟</string>
@@ -80,13 +75,21 @@
   <string name="email_picker_label">إرسال رسالة إلكترونية إلى</string>
   <string name="email_subject_prefix">"رد: "</string>
   <string name="empty_event">لم يتم إنشاء الحدث لأنه فارغ.</string>
+  <string name="event_account">حساب التقويم</string>
+  <string name="event_all_day_label">طوال اليوم</string>
   <string name="event_create">حدث جديد</string>
   <string name="event_delete">حذف حدث</string>
   <string name="event_edit">تعديل الحدث</string>
+  <string name="event_hide_more">إخفاء</string>
+  <string name="event_info_descrip">"الوصف: "</string>
   <string name="event_info_organizer">المنظِّم:</string>
   <string name="event_info_reminders_label">تذكيرات</string>
+  <string name="event_info_repeat">"التكرار: "</string>
   <string name="event_info_title">عرض الحدث</string>
   <string name="event_info_title_invite">دعوة اجتماع</string>
+  <string name="event_info_when">"متى: "</string>
+  <string name="event_info_where">"اين: "</string>
+  <string name="event_show_more">عرض</string>
   <string name="event_view">عرض الحدث</string>
   <string name="every_weekday">كل أيام الأسبوع (الاثنين-الجمعة)</string>
   <string name="gadget_no_events">لا توجد أحداث تقويم قادمة</string>
@@ -106,10 +109,6 @@
   <string name="menu_general_preferences">إعدادات عامة</string>
   <string name="menu_preferences">الإعدادات</string>
   <string name="menu_select_visible_calendars">عرض تقاويم</string>
-  <string name="miui_chinese_week_range_double">
-  </string>
-  <string name="miui_chinese_week_range_single">
-  </string>
   <string name="miui_menu_create_event">حدث جديد</string>
   <string name="modify_all">تغيير جميع الأحداث في سلسلة الأحداث</string>
   <string name="modify_all_following">تغيير هذا الحدث وجميع الأحداث المستقبلية</string>
@@ -125,9 +124,6 @@
   <string name="no_syncable_calendars">بلا تقاويم</string>
   <string name="no_title_label">(بلا عنوان)</string>
   <string name="not_synced">لم تتم مزامنته</string>
-  <string name="prefDefault_alerts_vibrateWhen">ابدا</string>
-  <string name="prefDefault_alerts_vibrate_false">ابدا</string>
-  <string name="prefDefault_alerts_vibrate_true">دوما</string>
   <string name="prefDialogTitle_vibrateWhen">اهتزاز</string>
   <string name="preferences_about_title">حول</string>
   <string name="preferences_alerts_popup_title">التنبيه المنبثق</string>
@@ -139,26 +135,25 @@
   <string name="preferences_category_general_title">عام</string>
   <string name="preferences_clear_search_history_summary">إزالة جميع عمليات البحث التي أجريتها</string>
   <string name="preferences_clear_search_history_title">محو سجل البحث</string>
-  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">وقت التذكير الافتراضي</string>
   <string name="preferences_default_reminder_title">وقت التذكير الافتراضي</string>
   <string name="preferences_general_title">إعداد عرض التقويم</string>
   <string name="preferences_hide_declined_title">إخفاء الأحداث التي تم رفضها</string>
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
-  <string name="preferences_home_tz_title">المنطقة الزمنية الأساسية</string>
+  <string name="preferences_home_tz_title">توقيت مدينتك الأصلية</string>
   <string name="preferences_reminder_title">إعدادات التذكير</string>
   <string name="preferences_show_week_num_title">إظهار رقم الأسبوع</string>
   <string name="preferences_title">الإعدادات</string>
-  <string name="preferences_use_home_tz_descrip">لعرض التقويمات وأوقات الأحداث في المنطقة الزمنية الأساسية أثناء السفر</string>
+  <string name="preferences_use_home_tz_descrip">عرض التقويم وأوقات الأحداث حسب وقت مدينتك الأصلية اثناء السفر</string>
   <string name="preferences_use_home_tz_title">استخدام المنطقة الزمنية الأساسية</string>
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">يبدأ الأسبوع يوم</string>
   <string name="preferences_week_start_day_title">يبدأ الأسبوع يوم</string>
-  <string name="presence_label">حالتي المعروضة هي</string>
+  <string name="presence_label">عرض حالتي كَـ</string>
   <string name="privacy_label">الخصوصية</string>
   <string name="quick_response_custom_msg">رسالة مخصصة…</string>
-  <string name="quick_response_dialog_title">اختيار رد سريع</string>
-  <string name="quick_response_email_failed">أخفق العثور على برنامج بريد إلكتروني</string>
+  <string name="quick_response_dialog_title">إختر رد سريع</string>
+  <string name="quick_response_email_failed">تعذرالعثور على تطبيق البريد إلكتروني</string>
   <string name="quick_response_settings">الردود السريعة</string>
   <string name="quick_response_settings_edit_title">رد سريع</string>
   <string name="quick_response_settings_summary">تعديل الردود الافتراضية في المراسلة الإلكترونية للمدعوين</string>
@@ -168,37 +163,39 @@
   <string name="response_maybe">ربما</string>
   <string name="response_no">لا</string>
   <string name="response_yes">نعم</string>
-  <string name="save_label">تم</string>
-  <string name="saving_event">تم حفظ الحدث.</string>
-  <string name="saving_event_with_guest">سيتم إرسال التحديثات.</string>
+  <string name="save_label">إكتمل</string>
+  <string name="saving_event">تم حفظ الحدث</string>
+  <string name="saving_event_with_guest">سيتم إرسال التحديثات</string>
   <string name="search">بحث</string>
-  <string name="search_history_cleared">تم محو سجل البحث.</string>
-  <string name="search_title">البحث تقاويمي</string>
-  <string name="select_synced_calendars_button">التقاويم المطلوب مزامنتها</string>
-  <string name="select_synced_calendars_title">التقاويم المطلوب مزامنتها</string>
-  <string name="select_visible_calendars_title">التقاويم المطلوب عرضها</string>
+  <string name="search_history_cleared">تم مسح سجل البحث</string>
+  <string name="search_title">البحث حسب التقويم</string>
+  <string name="select_synced_calendars_button">التقويم للمزامنة</string>
+  <string name="select_synced_calendars_title">التقويم للمزامنة</string>
+  <string name="select_visible_calendars_title">التقويم للعرض</string>
   <string name="show_controls">عرض عناصر التحكم</string>
   <string name="show_day_view">عرض اليوم</string>
-  <string name="show_newer_events">يمكنك اللمس لمشاهدة الأحداث بعد %1$s</string>
-  <string name="show_older_events">يمكنك اللمس لمشاهدة الأحداث قبل %1$s</string>
-  <string name="snooze_all_label">غفوة مؤقتة للكل</string>
+  <string name="show_newer_events">المس لعرض الأحداث بعد %1$s</string>
+  <string name="show_older_events">المس لعرض الأحداث قبل %1$s</string>
+  <string name="snooze_all_label">غفوة للكل</string>
   <string name="snooze_label">غفوة</string>
-  <string name="synced">تمت مزامنته</string>
-  <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">الحدث %1$s من %2$s.</string>
+  <string name="time_zone">المنطقة الزمنية</string>
   <string name="timezone_label">المنطقة الزمنية</string>
   <string name="today">اليوم</string>
   <string name="today_at_time_fmt">اليوم الساعة %s</string>
-  <string name="tomorrow">غداُ</string>
-  <string name="tomorrow_at_time_fmt">غداُ الساعة %s</string>
+  <string name="tomorrow">غداً</string>
+  <string name="tomorrow_at_time_fmt">غداً الساعة %s</string>
   <string name="view_event_calendar_label">التقويم:</string>
   <string name="view_event_organizer_label">المنظم:</string>
   <string name="view_event_response_label">ستحضر؟</string>
   <string name="week_view">اسبوع</string>
-  <string name="weekly">اسبوعيا (كل %s)</string>
+  <string name="weekly">كل أسبوع (في %s)</string>
   <string name="what_label">ماذا</string>
-  <string name="when_label">اين</string>
-  <string name="where_label">اين</string>
-  <string name="yearly">سنويا (في %s)</string>
-  <string name="yearly_plain">سنويا</string>
+  <string name="when_label">متى</string>
+  <string name="where_label">أين</string>
+  <string name="widget_events">الأحداث المقبلة</string>
+  <string name="widget_no_events">لا يوجد أحداث</string>
+  <string name="widget_select_style">إخار شكل التطبيق</string>
+  <string name="yearly">سنوياً (في %s)</string>
+  <string name="yearly_plain">سنوياً</string>
 </resources>

@@ -11,7 +11,8 @@
   <string name="accelerometer_title">التدوير التلقائي للشاشة</string>
   <string name="access_control_app_entry_multiple">فتح %s</string>
   <string name="access_control_app_entry_single">افتح التطبيقات المحددة</string>
-  <string name="access_control_need_password">تم حماية %s</string>
+  <string name="access_control_need_password">"تم حماية %s
+  "</string>
   <string name="access_control_need_to_unlock">كلمة المرور مطلوبة</string>
   <string name="access_control_no_back_footer">اضغط على[icon] الخروج</string>
   <string name="access_control_password_title">تفعيل كلمة المرور</string>

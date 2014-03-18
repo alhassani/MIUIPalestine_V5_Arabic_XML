@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Dashboard_App">التطبيقات</string>
   <string name="Dashboard_HIPS_Disable_Content">تعطيله سوف يجعل ميوي توقف طلبات مراقبة التطبيق ولن تحمي أمان وخصوصية الجهاز. متأكد من تعطيله؟</string>
@@ -25,7 +25,7 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">اذونات ROOT غير متوفرة في النسخ الثابتة</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">السماح لتطبيقات الطرف الثالث بالحصول على اذونات ROOT قد يسبب عدم استقرار النظام، او حتى فقدان بياناتك، ضرر في النظام او الجهاز. يرجى الانتقال الى ميوي للمطورين لتفعيل اذونات ROOT.</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">تنزيل ميوي</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuipalestine.net/</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com</string>
   <string name="Dashboard_Perm_SU_Switch">اذونات ROOT</string>
   <string name="Dashboard_Su_Enable_Content">تمكينه سوف يتيح للتطبيقات طلب إذن ROOT. ملاحظة: التطبيقات مع الإذونات قد تسبب عدم استقرار النظام، و حتى فقدان البيانات الشخصية، ضرر في النظام او الجهاز، الرجاء الحذر. متأكد من تمكينه؟</string>
   <string name="Dashboard_Su_Enable_Title">أذونات ROOT</string>
@@ -184,5 +184,5 @@
   <string name="SysOpt_Boost_AutoStart_Group">البدء التلقائي</string>
   <string name="SysOpt_Boost_Boot">الاقلاع</string>
   <string name="SysOpt_Boost_Receiver">الخلفية</string>
-  <string name="app_name">الحماية</string>
+  <string name="app_name">الاذونات</string>
 </resources>

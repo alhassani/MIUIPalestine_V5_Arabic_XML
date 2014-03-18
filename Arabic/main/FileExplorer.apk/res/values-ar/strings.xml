@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="account_bind_prompt">ترحيل بيانات المستخدم، سيتم اقفال حسابك مؤقتا. يرجى الانتظار...</string>
   <string name="add_task">اضف مهمة</string>
   <string name="adding_upload_tasks">يتم اضافة مهمة للرفع.</string>
+  <string name="already_signin_description">لقد قمت بتسجيل دخولك بالفعل</string>
   <string name="app_cache_cleanup_indication">%s ملفات مؤقتة</string>
   <string name="app_cache_title">الملفات المؤقتة</string>
   <string name="app_garbage_cleanup_indication">%s نخلفات التطبيقات</string>
@@ -212,7 +213,9 @@
   <string name="operation_unfavorite">ازالة من المفضلة</string>
   <string name="pan_settting">اعدادات MiDrive</string>
   <string name="paused">متوقف</string>
+  <string name="pull_to_signin">اسحب للاسفل لتسجيل الدخول والحصول على مساحة مجانية</string>
   <string name="query_bind_state">يتم تفحص حالة الربط... يرجى الانتظار</string>
+  <string name="release_to_signin">اترك لتسجيل الدخول</string>
   <string name="rename_description">يتم اعادة التسمية، يرجى الانتظار...</string>
   <string name="rename_failed">فشل اعادة تسمية》%1$s《</string>
   <string name="restart_cleaning">اعادة</string>
@@ -232,6 +235,10 @@
   <string name="server_control_settings">اعدادات الخادم</string>
   <string name="share_link_failed">فشل انشاء رابط خارجي للملف</string>
   <string name="show_message">لا يمكن فتح الملف من دون تنزيل</string>
+  <string name="sign_description">يتم تسجيل الدخول...</string>
+  <string name="signin_error">الشبكة غير متوفره حالياً. يرجى المحاولة لاحقاً.</string>
+  <string name="signin_success">"Sign in successful!
+Get free space %1$s"</string>
   <string name="space_info">مساحة الشبكة: %1$s متوفر، الحجم: %2$s</string>
   <string name="space_usage">الاستخدام</string>
   <string name="start_cleanup">بدء التنظيف</string>
@@ -265,6 +272,7 @@
   <string name="ui_bar_txt_upload_progress">يتم التحميل...</string>
   <string name="ui_filechange_btn_download">تنزيل الملفات</string>
   <string name="ui_filechange_btn_upload">تحميل الملفات</string>
+  <string name="ui_main_menu_option_sign_in">تسجيل الدخول</string>
   <string name="ui_main_menu_option_task_manage">ادارة النقل</string>
   <string name="ui_main_progress_txt_open_file">يتم التنزيل...</string>
   <string name="ui_main_toast_favorite_removed">تم ازالة المفضلة</string>
@@ -276,22 +284,22 @@
   <string name="uploading">جاري التحميل...</string>
   <string name="used">المستخدم</string>
   <string name="user_guide">دليل المستخدم</string>
-  <string name="user_guide_download_other_version">تنزيل MiDrive للـ PC و للـ Mac</string>
-  <string name="user_guide_kuaipan_copy">استخدم MiDrive لمشاركة ملفاتك بين اجهزة مختلفة</string>
-  <string name="user_guide_other_version">تنزيل نسخة مختلفة من MiDrive</string>
-  <string name="user_guide_summary">كيف تستخدم MiDrive</string>
+  <string name="user_guide_download_other_version">تنزيل MiDrive لاجهزة PC و Mac</string>
+  <string name="user_guide_kuaipan_copy">إستخدم MiDrive لمشاركة ملفاتك بين عدة اجهزة</string>
+  <string name="user_guide_other_version">تنزيل نسخة بديلة لـ MiDrive</string>
+  <string name="user_guide_summary">كيفيه استخدام MiDrive</string>
   <string name="user_guide_upload_to_kuaipan">نسخ ولصق الملفات الى MiDrive</string>
-  <string name="utf8_summary">نوع التشفير الافتراضي</string>
+  <string name="utf8_summary">التشفير الافتراضي</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">النسخة %1$s</string>
   <string name="wait_net">في انتظار الشبكة</string>
-  <string name="wait_sdcard">في انتظار بطاقة SD</string>
+  <string name="wait_sdcard">في انتظار تركيب بطاقة SD</string>
   <string name="wait_wifi">في انتظار اتصال Wi-Fi</string>
   <string name="waiting">في الانتظار...</string>
-  <string name="waiting_for_cleaning">في انتظار انتهاء التنظيف</string>
-  <string name="waiting_for_scanning">في انتظار انتهاء البحث</string>
-  <string name="wangpan_root_path">My Drive</string>
-  <string name="wifi_state">حالة Wi-Fi</string>
+  <string name="waiting_for_cleaning">في انتظار التنظيف</string>
+  <string name="waiting_for_scanning">في انتظار المسح</string>
+  <string name="wangpan_root_path">حسابي</string>
+  <string name="wifi_state">معلومات Wi-Fi</string>
   <string name="xiaomi_account">حساب Xiaomi</string>
   <string name="yes">نعم</string>
 </resources>

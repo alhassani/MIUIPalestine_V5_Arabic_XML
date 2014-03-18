@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="all_downloads">جميع التنزيلات</string>
+  <string name="app_downloads">%s تنزيل</string>
   <string name="app_label">التنزيلات</string>
   <string name="button_sort_by_date">ترتيب حسب التاريخ</string>
   <string name="button_sort_by_size">ترتيب حسب الحجم</string>
-  <string name="cancel_download_notice">صرف تنبية التنزيل</string>
   <string name="cancel_running_download">الغاء</string>
   <string name="confirm_delete_downloads_message">سيتم ازالة %d تنزيل محدد!</string>
   <string name="confirm_delete_the_download_item_message">يرجى تأكيد ازالة التنزيلات!</string>
-  <string name="confirm_disable_download_only_in_wifi_message">ايقاف التنزيل فقط عبر Wi-Fi سيسبب على الارجح استهلاك اضافي للبيانات. متأكد من ايقافة؟</string>
   <string name="delete_download">حذف</string>
   <string name="delete_downloads_records">حذف التنزيلات</string>
   <string name="delete_the_downloaded_file">حذف الملفات المنزلة</string>
   <string name="deselect_all">الغاء التحديد</string>
-  <string name="dialog_cannot_resume">تم ماقطعة لاتنزيلا ولا يمكن استكمالة</string>
-  <string name="dialog_failed_body">هل تري محاولة التنزيل لاحقاً او ازالة الملف من الجدولة؟</string>
+  <string name="dialog_cannot_resume">تم ماقطعة التنزيل ولا يمكن استكمالة</string>
+  <string name="dialog_failed_body">هل تري محاولة التنزيل لاحقاً او ازالتة؟</string>
   <string name="dialog_file_already_exists">تعذر التنزيل، الملف موجود مسبقا.</string>
   <string name="dialog_file_missing_body">لا يمكن العثور على الملف</string>
   <string name="dialog_file_missing_title">فشل فتح الملف</string>
@@ -23,8 +23,7 @@
   <string name="dialog_queued_body">هذا التنزيل مجدول للتنزيل لاحقا</string>
   <string name="dialog_title_not_available">فشل التنزيل</string>
   <string name="dialog_title_queued_body">الملف غير متوفر</string>
-  <string name="disable_download_only_in_wifi_title">ايقاف التنزيل عبر Wi-Fi فقط</string>
-  <string name="download_complete">المنزل</string>
+  <string name="download_complete">المكتمل</string>
   <string name="download_error">فشل</string>
   <string name="download_error_insufficient_space">مساحة غير كافية</string>
   <string name="download_in_process">يتم التنزيل</string>
@@ -47,24 +46,21 @@
   <string name="keep_queued_download">ابقاء</string>
   <string name="menu_enter_edit_mode">المحرر</string>
   <string name="menu_preferences">الاعدادات</string>
-  <string name="might_lead_to_mobile_charge">بعد الالغاء، لن يتم عرض تنبية من جهازك. هذا قد يسبب استهلاك عالي في البيانات.</string>
   <string name="missing_title">غير معروف</string>
   <string name="no_downloads">لا يوجد تنزيلات</string>
   <string name="open_download">فتح</string>
   <string name="pause_download">ايقاف</string>
-  <string name="pause_download_when_wifi_disconnected">تنزيل عبر Wi-Fi فقط</string>
   <string name="paused_by_app">متوقف بشكل يدوي</string>
   <string name="paused_queued_for_wifi">في انتظار اتصال Wi-Fi</string>
   <string name="paused_unknown">خطأ غير معروف</string>
   <string name="paused_waiting_for_network">في انتظار اتصال الشبكة</string>
   <string name="paused_waiting_to_retry">في انتظار اعادة المحاولة</string>
-  <string name="prefDefault_max_bytes_limit">1048576</string>
-  <string name="pref_dialog_title_max_bytes_limit">حدود حجم الملف</string>
   <string name="pref_download_settings_title">تنبية استخدام البيانات</string>
+  <string name="pref_summary_any_bytes_popup">الجدولة دوما عند استخدام Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">في حين استخدام بيانات مشغل الشبكة، اظهار تنبية منبثق اذا تم تخطي حدود حجم الملف</string>
   <string name="pref_summary_max_bytes_limit_format">عرض تنبية منبثق اذا كان حجم التنزيل اكبر من %s</string>
+  <string name="pref_summary_no_limit_popup">حجم التنزيل غير محدود</string>
   <string name="pref_title_enable_max_bytes_popup">تنبية تنزيل البيانات</string>
-  <string name="pref_title_max_bytes_limit">حدود حجم الملف</string>
   <string name="preferences_title">الاعدادات</string>
   <string name="remove_download">ازالة</string>
   <string name="restart_download">اعادة</string>
@@ -73,5 +69,10 @@
   <string name="retry_download">اعادة</string>
   <string name="select_all">تحديد الكل</string>
   <string name="select_operation_items">يرجى اختيار عناصر</string>
-  <string name="selected_count">تم تحديث %1$d من %2$d</string>
+  <string name="selected_count">محدد %1$d من %2$d</string>
+  <string name="turn_off_xunlei_message">قد تواجه سرعة تنزيل بطيئة</string>
+  <string name="turn_off_xunlei_title">تعطيل محرك التنزيل Xunlei</string>
+  <string name="xunlei_brand">يعمل بنظام Xunlei</string>
+  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_switch">محرك التنزيل Xunlei</string>
 </resources>
