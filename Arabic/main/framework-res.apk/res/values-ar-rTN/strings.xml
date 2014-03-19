@@ -1029,7 +1029,7 @@
   <string name="find_on_page">بحث في الصفحة</string>
   <string name="action_mode_done">تم</string>
   <string name="progress_unmounting">جارٍ إلغاء تحميل وحدة تخزين USB...</string>
-  <string name="progress_erasing">جارٍ محو وحدة تخزين USB...</string>
+  <string name="progress_erasing">يتم مسح وحدة تخزين USB...</string>
   <string name="format_error">تعذر مسح وحدة تخزين USB.</string>
   <string name="media_bad_removal">تمت إزالة بطاقة SD قبل أن يتم إلغاء تركيبها.</string>
   <string name="media_checking">يتم حاليًا التحقق من وحدة تخزين USB.</string>
