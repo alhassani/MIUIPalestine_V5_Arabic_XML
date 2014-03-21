@@ -59,11 +59,9 @@
   <string name="browse_category">تصفح الصور</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">By others</string>
-  <string name="by_sms">SMS</string>
   <string name="camera_connected">الكاميرا متصلة.</string>
   <string name="camera_disconnected">الكاميرا غير متصلة.</string>
   <string name="camera_folder_display_name">صور الكاميرا</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">الخلفية</string>
   <string name="camera_view_none_message">سيتم عرض الصور الملتقطة هنا.</string>
   <string name="cancel">إلغاء</string>
@@ -92,8 +90,7 @@
   <string name="cloud_media_set_set">الألبومات السحابية</string>
   <string name="cloud_owner_album_share_guide">You can share this album with friends</string>
   <string name="cloud_screenshots_display_name">لقطات الشاشة</string>
-  <string name="cloud_share_guide_message">"You can share your MiCloud album with
-friends."</string>
+  <string name="cloud_share_guide_message">"You can share your MiCloud album with friends."</string>
   <string name="cloud_share_guide_title">MiCloud Sharing!</string>
   <string name="cloud_tab_albums">الالبومات</string>
   <string name="cloud_tab_all">الكل</string>
@@ -237,7 +234,7 @@ friends."</string>
   <string name="internal_sd_card_hm">Phone storage</string>
   <string name="invalid_invition_url">Invalid invitation URL.</string>
   <string name="invalid_recipient_message">"Correct recipient(s) errors or they will not receive the message."</string>
-  <string name="iso">سرعة ISO</string>
+  <string name="iso">حساسية ISO</string>
   <string name="item_not_sync">This item has not been synchronized to the cloud and can not be downloaded</string>
   <string name="kick_owner_user_positive_button_text">Remove</string>
   <string name="kick_owner_user_title">Remove this member?</string>
@@ -283,8 +280,6 @@ friends."</string>
   <string name="more">اكثر</string>
   <string name="move">Move</string>
   <string name="move_to_cloud_album">انقل للسحاب</string>
-  <string name="mtgif">MTGIF</string>
-  <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">المس وجهًا للبدء.</string>
   <string name="must_pick_file">اختيار صورة</string>
   <string name="negative">سلبي</string>
@@ -417,7 +412,6 @@ friends."</string>
   <string name="show_images_only">الصور فقط</string>
   <string name="show_on_map">إظهار على الخريطة</string>
   <string name="show_videos_only">الفيديو فقط</string>
-  <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">%1$s او اكثر</string>
   <string name="size_below">%1$s او اقل</string>
   <string name="size_between">%1$s الى %2$s</string>

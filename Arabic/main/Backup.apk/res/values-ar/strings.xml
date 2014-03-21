@@ -129,11 +129,9 @@
   <string name="customization_under_wifi_prompt">مدعومة فقط عند استخدام Wi-Fi</string>
   <string name="data_no_enough_space">المساحة الداخلية غير كافية، قم بتحرير بعض المساحة وحاول مجدداً</string>
   <string name="data_no_enough_space_message">الاستعادة قد تفشل، يرجى تحرير بعض المساحة والمحاولة مجددا</string>
-  <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
   <string name="delete">حذف</string>
   <string name="delete_backup_process">جاري الحذف...</string>
   <string name="delete_failed_backup_confirm">حدث خطأ في النسخ، لا يمكن الاستعادة من هذه النسخة</string>
-  <string name="dir_date_format">dd-MM-yyyy_HH:mm:ss</string>
   <string name="disable_encrypt_title">تعطيل التشفير</string>
   <string name="enable_encrypt">تمكين الآن</string>
   <string name="enable_encrypt_fail">فشل تفعيل التشفير</string>

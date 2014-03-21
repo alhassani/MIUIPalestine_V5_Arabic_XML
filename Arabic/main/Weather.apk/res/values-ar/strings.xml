@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="act_aqi_no2_title">NO2</string>
-  <string name="act_aqi_pm10_title">PM10</string>
-  <string name="act_aqi_pm25_title">PM2.5</string>
-  <string name="act_aqi_so2_title">SO2</string>
   <string name="act_city_find_gps_error">Select a city manually in the menu list.</string>
   <string name="act_find_city_hint">Search</string>
   <string name="act_find_city_hot_title">Popular cities</string>
@@ -32,7 +28,6 @@
   <string name="alert_provider_message">You need to enable location access via your mobile network.</string>
   <string name="alert_provider_title">Location notification</string>
   <string name="alert_title_delete">Delete</string>
-  <string name="app_love_font_lng">%s</string>
   <string name="app_love_sms_title">Message contents</string>
   <string name="app_love_view_title">Preview</string>
   <string name="app_name">Weather</string>
@@ -54,15 +49,10 @@
   <string name="button_allow">Allow</string>
   <string name="button_not_allow">Deny</string>
   <string name="cancel">Cancel</string>
-  <string name="enable_gps">GPS</string>
   <string name="enable_notification">Open location notification</string>
   <string name="enable_notification_city">Have opened %s weather notification, system notification will be sent when unexpected weather such as rain, snow and temperature change occurs.</string>
   <string name="enable_notification_summary">Notify me if the forecast changes</string>
   <string name="first_start_network_toast_text">Access network to get weather information.</string>
-  <string name="format_date_md">M/d kk:mm</string>
-  <string name="format_date_trend_md">M/d</string>
-  <string name="format_date_week">EEE</string>
-  <string name="format_date_wmd">M/d EEE</string>
   <string name="install_tencent">Get Weibo app</string>
   <string name="loading_weather">Loading weather...</string>
   <string name="local_city">Local cities</string>
@@ -89,7 +79,6 @@
   <string name="send_sms_notification_summary">"Send today's weather data to your contacts via text message"</string>
   <string name="send_weather_sms_cycle">%1$s weather forecast：%2$s</string>
   <string name="send_weather_sms_error">No weather data</string>
-  <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
   <string name="settings_weather_about">About</string>
   <string name="settings_weather_animation">Weather animation</string>
   <string name="settings_weather_play_ani_summary">Play animation in the main interface</string>
@@ -120,8 +109,5 @@ Today %1$s's weather is %2$s, %3$s, %4$s. %5$s."</string>
   <string name="trend_weather_today">Today</string>
   <string name="trend_weather_tomorrow">Tomorrow</string>
   <string name="weather_notification">Weather notification</string>
-  <string name="weather_unit">°</string>
-  <string name="weather_unit_middle">~</string>
-  <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">No weather data</string>
 </resources>

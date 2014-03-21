@@ -51,7 +51,6 @@
   <string name="mi_wallpaper">خلفية</string>
   <string name="online_no_network">تعذر الاتصال بالشبكة</string>
   <string name="online_search_hint">البحث عن موارد عبر الانترنت</string>
-  <string name="payment_info">MiCredits</string>
   <string name="purchased_list">قائمة المشتريات</string>
   <string name="resource_account_abnormal_state">خطأ في الحساب. يرجى المحاولة لاحقاً.</string>
   <string name="resource_account_current">الحساب: %1$s</string>
@@ -76,7 +75,6 @@
   <string name="resource_comment_average_score">التقييمات السلبية</string>
   <string name="resource_comment_bad_comments">سلبي</string>
   <string name="resource_comment_current_version">النسخة الحالية</string>
-  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">اضف تعليق</string>
   <string name="resource_comment_edit_comment_waiting">يتم تفقد اذا استخدمتة</string>
   <string name="resource_comment_edit_text_default">اكتب تعليق</string>
@@ -88,7 +86,6 @@
   <string name="resource_comment_invalid">يرجى لمس النجوم للتقييم</string>
   <string name="resource_comment_loading_list">يتم تحميل التعليقات...</string>
   <string name="resource_comment_name_default">المستخدم: %1$s</string>
-  <string name="resource_comment_no_average_score">0.0</string>
   <string name="resource_comment_no_comment">لا يوجد تعليقات</string>
   <string name="resource_comment_publish">ارسل</string>
   <string name="resource_comment_rate">التقييم:</string>
@@ -228,7 +225,6 @@
   <string name="theme_component_title_lockstyle">شاشة القفل</string>
   <string name="theme_component_title_lockwallpaper">خلفية القفل</string>
   <string name="theme_component_title_miwallpaper">الخلفية</string>
-  <string name="theme_component_title_mms">SMS</string>
   <string name="theme_component_title_notification">التنبيهات</string>
   <string name="theme_component_title_others">اخرى</string>
   <string name="theme_component_title_photo_frame">إطار الصور</string>
@@ -241,7 +237,6 @@
   <string name="theme_immediately_apply_tip">تم تحديث السمة. التطبيق الان؟</string>
   <string name="theme_import_activity_label">ترقية السمة</string>
   <string name="theme_import_from_sdcard">الاستيراد من بطاقة SD</string>
-  <string name="theme_name">%1$s</string>
   <string name="theme_select_others">اخرى</string>
   <string name="third_party_pickers_activity_title">ضبط %1$s</string>
   <string name="title_component">خلط</string>

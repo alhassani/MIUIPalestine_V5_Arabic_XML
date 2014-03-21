@@ -23,6 +23,5 @@
   <string name="traffic_protection_label">مراقبة استهلاك البيانات</string>
   <string name="traffic_protection_summary">سيقوم مراقب بيانات الشبكة بتنبيهك عند اقتراب انتهاء خطة البيانات.</string>
   <string name="traffic_protection_text_hint">يرجى إدخال حدود خطة البيانات الخاصة بك.</string>
-  <string name="traffic_protection_unknown"/>
   <string name="use_data">تفعيل البيانات</string>
 </resources>

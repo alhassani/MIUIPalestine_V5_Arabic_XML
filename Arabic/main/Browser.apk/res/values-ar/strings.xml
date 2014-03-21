@@ -91,8 +91,6 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">هذا اخر تبويب</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">اسحب لأعلى للإغلاق</string>
   <string name="browserFrameFileErrorLabel">مشكلة بالملف</string>
-  <string name="browserFrameFormResubmitLabel">
-  </string>
   <string name="browserFrameFormResubmitMessage">تحتوي الصفحة التي تحاول عرضها على بيانات تم إرسالها فعليًا (\"POSTDATA\"). إذا أعدت إرسال البيانات، فسيتم تكرار أي إجراء نفذه النموذج على الصفحة (مثل إجراء عملية بحث أو شراء عبر الإنترنت).</string>
   <string name="browserFrameNetworkErrorLabel">مشكلة في الاتصال</string>
   <string name="browser_bookmarks_page_bookmarks_text">الإشارات</string>
@@ -108,18 +106,10 @@
   <string name="clip_dialog_title">فتح الرابط المنسوخ؟</string>
   <string name="close_all_tab_alert_message">متأكد من اغلاق جميع التبويبات؟</string>
   <string name="close_all_tab_alert_title">اغلاق جميع التبويبات</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
-  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_down_analytic_txt">اغلاق</string>
-  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
   <string name="common_use_phrase_bottom_bar_paste_analytic_txt">لصق</string>
   <string name="common_use_phrase_bottom_bar_paste_txt">لصق</string>
-  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_up_analytic_txt">توسيع</string>
-  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="containing_folder">إضافة إلى</string>
   <string name="contextheader_folder_bookmarkcount">%d من الإشارات المرجعية</string>
   <string name="contextheader_folder_empty">المجلد فارغ</string>
@@ -184,10 +174,6 @@
   <string name="downloaded">تم التنزيل</string>
   <string name="downloading">يتم التنزيل</string>
   <string name="dump_counters">Dump V8 counters</string>
-  <string name="dump_display_tree">Dump display tree to file</string>
-  <string name="dump_dom_tree">Dump DOM tree to file</string>
-  <string name="dump_nav">Dump navigation cache</string>
-  <string name="dump_render_tree">Dump render tree to file</string>
   <string name="edit">تعديل</string>
   <string name="edit_bookmark">تعديل الإشارة</string>
   <string name="edit_folder">تعديل مجلد</string>
@@ -224,7 +210,6 @@
   <string name="geolocation_settings_page_summary_not_allowed">لا يمكن لموقع الويب هذا الدخول إلى موقعك الجغرافي حاليًا</string>
   <string name="geolocation_settings_page_title">محو إمكانية الدخول إلى الموقع الجغرافي</string>
   <string name="go_home">الصفحة الرئيسية</string>
-  <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">تنفيذ</string>
   <string name="have_sent_bookmark_to_home_screen">Bookmark sent to home screen</string>
   <string name="history">سجلّ</string>
@@ -232,9 +217,7 @@
   <string name="history_most_visited">Most visited</string>
   <string name="history_saved_webpage">Save web page</string>
   <string name="history_track">History</string>
-  <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">تم تعيين الصفحة الرئيسية.</string>
-  <string name="http">http://</string>
   <string name="import_bookmarks_dialog_add">"إضافة إشارات مرجعية  إلى حساب Google"</string>
   <string name="import_bookmarks_dialog_confirm_add">هل تريد إضافة الإشارات المرجعية الموجودة على هذا الجهاز حاليًا وبدء مزامنتها مع %s؟</string>
   <string name="import_bookmarks_dialog_confirm_delete">هل تريد حذف الإشارات المرجعية الموجودة على هذا الجهاز حاليًا وبدء مزامنتها مع %s؟</string>
@@ -357,7 +340,6 @@
   <string name="pref_data_preload_value_never_summary">Never preload high confidence search results in the background</string>
   <string name="pref_data_title">Bandwidth management</string>
   <string name="pref_default_text_encoding">Text encoding</string>
-  <string name="pref_default_text_encoding_default">UTF-8</string>
   <string name="pref_default_text_encoding_dialogtitle">Text encoding</string>
   <string name="pref_default_zoom">Default zoom</string>
   <string name="pref_default_zoom_dialogtitle">Default zoom</string>
@@ -373,7 +355,6 @@
   <string name="pref_development_single_column_rendering">Single column rendering</string>
   <string name="pref_development_title">Debug</string>
   <string name="pref_development_trace">Enable tracing</string>
-  <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Exit on closing last tab</string>
@@ -421,7 +402,6 @@
   <string name="pref_link_prefetch_title">Preload pages</string>
   <string name="pref_link_prefetch_value_never_summary">Never Allow browser to preload linked web pages in the background</string>
   <string name="pref_min_font_size">Minimum font size</string>
-  <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_privacy_clear_cache">Clear cache</string>
   <string name="pref_privacy_clear_cache_dlg">Delete locally cached content and databases?</string>
   <string name="pref_privacy_clear_cache_summary">Clear locally cached content and databases</string>
@@ -463,8 +443,6 @@
   <string name="pref_set_homepage_to">Set to</string>
   <string name="pref_setting_title">Page settings</string>
   <string name="pref_text_zoom">Text scaling</string>
-  <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">User agent string</string>
   <string name="pref_ua_title">User agent management</string>
   <string name="pref_use_instant_search">Google instant search</string>
@@ -522,24 +500,14 @@
   <string name="save_to_bookmarks">حفظ الى العلامات</string>
   <string name="saving_snapshot">يتم الحفظ...</string>
   <string name="search">بحث</string>
-  <string name="search_baidu">Baidu</string>
-  <string name="search_bing">Bing</string>
   <string name="search_button_text">اذهب</string>
   <string name="search_cancel">الغاء</string>
-  <string name="search_dianping">Cate</string>
-  <string name="search_easou">Easou</string>
-  <string name="search_google">Google</string>
   <string name="search_hint">إبحث او اكتب رابط</string>
   <string name="search_label">المتصفح</string>
-  <string name="search_s139">139</string>
   <string name="search_settings_description">العلامات والمحفوظات</string>
   <string name="search_shipin">Video</string>
-  <string name="search_sogou">Sogou</string>
-  <string name="search_taobao">Taobao</string>
   <string name="search_the_web">ابحث في الانترنت</string>
   <string name="search_tupian">صورة</string>
-  <string name="search_yahoo">Yahoo</string>
-  <string name="search_yicha">Yicha</string>
   <string name="security_warning">تحذير امني</string>
   <string name="select_dot">تحديد النص</string>
   <string name="send_bookmark_to_home_screen">ارسل للشاشة الرئيسية</string>

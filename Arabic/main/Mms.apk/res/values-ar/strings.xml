@@ -117,7 +117,6 @@
   <string name="error_state_text">حالة المواضيع والمستلمين غير متناسقة. يرجى ارسال تقرير بالخطأ الى http://www.miuipalestine.net</string>
   <string name="error_timed_msg">لا يمكن تحديد وقت قبل الان</string>
   <string name="ex_type_mx">رسالة السحابة</string>
-  <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">تم بلوغ الحد الأقصى لحجم الرسالة.</string>
   <string name="expire_on">تاريخ انتهاء الصلاحية: %s</string>
   <string name="exporting_progress_private_message">تصدير الرسائل من صندوق الرسائل الخاصة</string>
@@ -127,8 +126,6 @@
   <string name="festival">توصية</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">جاري التحميل...</string>
-  <string name="fetion_prefix">[Fetion]</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"إعادة توجيه: "</string>
   <string name="found_old_messages">تم ايجاد رسائل من حسابات سابقة على هاتفك::%1$sهل تريد تحميلها الى الحساب الحالي %2$s?</string>
   <string name="found_old_messages_title">تحميل الرسالة</string>
@@ -142,7 +139,6 @@
   <string name="guild_add_recipients">المس لاضافة مستقبل من جهات الاتصال</string>
   <string name="has_invalid_recipient">المستلمون غير الصالحون: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">عنوان المرسل المخفي</string>
-  <string name="hint_search_sms">%d SMS</string>
   <string name="importing_progress_private_message">استيراد الرسائل لصندوق الرسائل الخاصة</string>
   <string name="in_sms">رسالة</string>
   <string name="insufficient_drm_rights">تم اكتشاف حقوق DRM غير كافية.</string>
@@ -401,6 +397,5 @@
   <string name="view">عرض</string>
   <string name="view_bookmark">عرض الرسالة الاصلية</string>
   <string name="view_message_details">عرض التفاصيل</string>
-  <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">موافق</string>
 </resources>

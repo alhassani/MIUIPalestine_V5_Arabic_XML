@@ -103,8 +103,6 @@
   <string name="yesterday">أمس</string>
   <string name="today">اليوم</string>
   <string name="tomorrow">غدًا</string>
-  <string name="numeric_date_format">d‏/M‏/yyyy</string>
-  <string name="default_text_encoding">UTF-8</string>
   <string name="mmiError">حدثت مشكلة في الاتصال أو أن كود MMI غير صحيح.</string>
   <string name="mmiFdnError">تم تقييد التشغيل لأرقام الاتصال الثابت فقط.</string>
   <string name="serviceEnabled">تم تمكين الخدمة.</string>
@@ -123,8 +121,6 @@
   <string name="needPuk2">اكتب PUK2 لإلغاء تأمين بطاقة SIM.</string>
   <string name="enablePin">Unsuccessful. Enable SIM/RUIM LOCK.</string>
   <string name="pinpuk_attempts">"Attempts Remaining: "</string>
-  <string name="imei">IMEI</string>
-  <string name="meid">MEID</string>
   <string name="ClipMmi">معرف المتصل الوارد</string>
   <string name="ClirMmi">معرف المتصل الصادر</string>
   <string name="CfMmi">إعادة توجيه الاتصال</string>
@@ -675,7 +671,6 @@
   <string name="faceunlock_multiple_failures">تم تجاوز الحد الأقصى لعدد محاولات تأمين الجهاز بالوجه</string>
   <string name="lockscreen_plugged_in">يتم الشحن، %d%%</string>
   <string name="lockscreen_charged">تم الشحن.</string>
-  <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_low_battery">توصيل جهاز الشحن.</string>
   <string name="lockscreen_missing_sim_message_short">ليس هناك بطاقة SIM.</string>
   <string name="lockscreen_missing_sim_message">ليس هناك بطاقة SIM في الهاتف.</string>
@@ -810,7 +805,6 @@
   <string name="weeks">أسابيع</string>
   <string name="year">سنة</string>
   <string name="years">أعوام</string>
-  <string name="relative_time">%1$s، %2$s</string>
   <string name="noon">الظهر</string>
   <string name="Noon">الظهر</string>
   <string name="midnight">منتصف الليل</string>
@@ -1068,7 +1062,6 @@
   <string name="date_picker_decrement_day_button">تقليل الأيام</string>
   <string name="date_picker_increment_year_button">زيادة الأعوام</string>
   <string name="date_picker_decrement_year_button">تقليل الأعوام</string>
-  <string name="keyboardview_keycode_alt">Alt</string>
   <string name="keyboardview_keycode_cancel">إلغاء</string>
   <string name="keyboardview_keycode_delete">حذف</string>
   <string name="keyboardview_keycode_done">تم</string>

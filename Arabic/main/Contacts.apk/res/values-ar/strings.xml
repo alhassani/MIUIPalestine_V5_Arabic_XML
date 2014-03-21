@@ -80,7 +80,6 @@
   <string name="call_settings">الاعدادات</string>
   <string name="call_telex">الاتصال بالتلكس</string>
   <string name="call_tty_tdd">اتصال بـ TTY/TDD</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_work">الاتصال بهاتف العمل</string>
   <string name="call_work_mobile">الاتصال بجوال العمل</string>
   <string name="call_work_pager">الاتصال بجهاز نداء العمل</string>
@@ -149,18 +148,8 @@
   <string name="composer_failed_to_get_database_infomation">تعذر الحصول على معلومات قاعدة البيانات</string>
   <string name="composer_has_no_exportable_contact">ليس هناك جهات اتصال قابلة للتصدير. إذا كان لديك فعلاً جهات اتصال على الهاتف، فقد يحظر بعض موفري البيانات تصدير جميع جهات الاتصال خارج الهاتف.</string>
   <string name="composer_not_initialized">لم تتم تهيئة مؤلف vCard بشكل صحيح</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider">
-  </string>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix">
-  </string>
-  <string name="config_export_file_suffix">
-  </string>
   <string name="config_export_vcard_type">إفتراضي</string>
   <string name="config_import_vcard_type">إفتراضي</string>
-  <string name="config_prohibited_phone_number_regexp">
-  </string>
   <string name="confirm_delete_contact_all_call_logs">متأكد انك تريد حذف سجل مكالمات %s؟</string>
   <string name="confirm_delete_selected_all_call_logs">متأكد انك تريد حذف سجل مكالمات جهة الاتصال؟</string>
   <string name="confirm_delete_sim_entry_miui">حذف %d جهة اتصال على بطاقة SIM؟</string>
@@ -387,7 +376,6 @@
   <string name="frequency_three_days">كل ثلاثة أيام تحقق وتذكيري</string>
   <string name="frequency_weekly">تحقق أسبوعيا ونذكرني</string>
   <string name="frequentList">متكررة</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">الاسم</string>
   <string name="generic_no_account_prompt">ابقي جهات اتصالك بإمان حتى لو فقدت الهاتف، بالمزامنة مع خدمة عبر الانترنت.</string>
   <string name="generic_no_account_prompt_title">اضف حساب</string>
@@ -410,12 +398,6 @@
   <string name="group_sms_progress_msg">التحضير لرسالة SMS جماعية...</string>
   <string name="groupsLabel">المجموعات</string>
   <string name="groups_list_empty">لا يوجد مجموعات</string>
-  <string name="help_url_people_add">
-  </string>
-  <string name="help_url_people_edit">
-  </string>
-  <string name="help_url_people_main">
-  </string>
   <string name="hint_distance">ابقي على المسافة</string>
   <string name="hint_findContacts">البحث عن جهات اتصال</string>
   <string name="hint_more_contact">استخدم دمج جهات الاتصال عند تكرار جهات لاتصال</string>
@@ -425,7 +407,6 @@
   <string name="ic_menu_back">العودة</string>
   <string name="ic_menu_done">تم</string>
   <string name="imLabelsGroup">المراسلة الفورية</string>
-  <string name="imei">IMEI</string>
   <string name="import_all_sim_entries_miui">استيراد جميع جهات الاتصال</string>
   <string name="import_all_vcard_string">استيراد جميع ملفات vCard</string>
   <string name="import_contact_card_button">إستيراد</string>
@@ -436,7 +417,6 @@
   <string name="import_multiple_vcard_string">استيراد ملفات vCard متعددة</string>
   <string name="import_name">الاسم</string>
   <string name="import_one_vcard_string">استيراد ملف vCard واحد</string>
-  <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">استيراد جهات الاتصال المحددة</string>
   <string name="import_sim_entries_finish">إكتمل استيراد جهات اتصال SIM</string>
   <string name="import_sim_entry_miui">الاستيراد من بطاقة SIM</string>
@@ -455,8 +435,6 @@
   <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
   <string name="import_weibo_notification_title">جاري استيراد جهات اتصال Sina weibo...</string>
   <string name="import_weibo_notification_title_done">اكتمل الاستيراد</string>
-  <string name="import_weibo_progress_name">%1$s</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">ستم استيراد جهات اتصال بطاقة SIM...</string>
   <string name="importing_vcard_canceled_title">تم إلغاء استيراد %s</string>
   <string name="importing_vcard_description">جارٍ استيراد %s</string>
@@ -503,7 +481,6 @@
   <string name="map_home">عرض عنوان المنزل</string>
   <string name="map_other">عرض عنوان</string>
   <string name="map_work">عرض عنوان العمل</string>
-  <string name="meid">MEID</string>
   <string name="menu_accounts">الحسابات</string>
   <string name="menu_addStar">إضافة إلى المفضلة</string>
   <string name="menu_bar_group_add">اضف</string>
@@ -583,30 +560,23 @@
   <string name="noContactHelpTextImportXiaomiAccountInfo">استعادة بيانات النسخ الاحتياطي في حساب Xiaomi وMiTalk</string>
   <string name="noContacts">ليست هناك جهات اتصال</string>
   <string name="noContactsHelpText">"لا يوجد لديك أية جهات اتصال لعرضها.
-
 لإضافة جهات الاتصال، اضغط "</string>
   <string name="noContactsHelpTextForCreateShortcut">ليس لديك أية جهات اتصال لعرضها.</string>
   <string name="noContactsHelpTextWithSync">"لا يوجد لديك أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب، قد يستغرق بضع دقائق لمزامنة جهات الاتصال.)
-
 لإضافة جهات الاتصال، اضغط "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">ليس لديك أي جهات اتصال لعرضها. (إذا كنت قد أضفت حسابًا توًا، فيمكن أن تستغرق مزامنة جهات الاتصال دقائق معدودة.)</string>
   <string name="noContactsNoSimHelpText">"لا يوجد لديك أية جهات اتصال لعرضها.
-
 لإضافة جهات الاتصال، اضغط "</string>
   <string name="noContactsNoSimHelpTextWithSync">"لا يوجد لديك أية جهات اتصال لعرضها. (إذا قمت بإضافة حساب، قد يستغرق بضع دقائق لمزامنة جهات الاتصال.)
-
 لإضافة جهات الاتصال، اضغط "</string>
   <string name="noContactsWithPhoneNumbers">ليس هناك جهات اتصال تشتمل على أرقام هواتف.</string>
   <string name="noFavoritesHelpText">"لا يوجد لديك أي مفضلة.
-
 لإضافة جهة اتصال إلى قائمة المفضلة:
-
 "</string>
   <string name="noGroups">لا توجد مجموعات</string>
   <string name="noMatchingContacts">لم يتم العثور على أية جهات اتصال متطابقة.</string>
   <string name="noRecentContacts">لا يوجد جهات إتصال حديثة</string>
   <string name="no_account_prompt">"يعمل تطبيق \"الأشخاص\" بشكل أفضل مع حساب Google.‏
-
 • يمكنك الدخول من أي متصفح ويب.
 • يمكنك نسخ جهات اتصالك احتياطيًا بشكل آمن."</string>
   <string name="no_contact_details">ليس هناك معلومات إضافية لجهة الاتصال هذه</string>
@@ -644,8 +614,6 @@
   <string name="other_phone">هواتف اخرى</string>
   <string name="payphone">هاتف مدفوع</string>
   <string name="people">أشخاص</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">الهاتف</string>
   <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">الاساسي</string>
@@ -872,9 +840,7 @@
   <string name="resource_pack_price_info">%1$s Original</string>
   <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
   <string name="resource_present">Gift</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Free</string>
-  <string name="resource_price_unit">" MiCredits"</string>
   <string name="resource_purchase_getting_order">Retrieving order info…</string>
   <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
   <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
@@ -903,15 +869,12 @@
   <string name="resource_trial_end_restore">Finish trial</string>
   <string name="resource_trial_end_title">Trial expired</string>
   <string name="resource_trial_time">（trial for %1$d minutes）</string>
-  <string name="resource_unable_to_access">"Unfortunately,
-the content you're looking for is not currently available in your region."</string>
+  <string name="resource_unable_to_access">Unfortunately, the content you're looking for is not currently available in your region.</string>
   <string name="resource_unknow_error">An unknown error occurred</string>
   <string name="resource_update">Update</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Waiting to download...</string>
   <string name="restore_nickname">Restore</string>
-  <string name="ret_sign">"
-"</string>
   <string name="returnCall">Return call</string>
   <string name="ringLabelsGroup">Ringtone</string>
   <string name="save_photo_progress">Saving photo…</string>
@@ -923,8 +886,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="scanning">Scanning…</string>
   <string name="scanning_sdcard_failed_message">Reason: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"The storage couldn't be scanned"</string>
-  <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
-"</string>
+  <string name="sdcard_not_mounted_dialog_message">Insert SD card now.</string>
   <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
   <string name="searchHint">Search contacts</string>
   <string name="search_results_searching">Searching…</string>
@@ -979,9 +941,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="sim_export_loading">Reading SIM card…</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is invalid: must be between %2$d and %3$d.</string>
   <string name="sim_no_contact">No contacts on SIM card</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">No group members</string>
-  <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">By company</string>
   <string name="smart_group_company_unavailable">No company</string>
   <string name="smart_group_frequency_1">Within a month</string>
@@ -1058,9 +1018,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="unknown_contact_name">Unknown contact</string>
   <string name="upgrade_in_progress">Contact list is being updated.</string>
   <string name="upgrade_out_of_memory">"Contacts are in the process of being upgraded. 
-
 The upgrade process requires approximately %s MB of internal storage.
-
 Choose one of the following options:"</string>
   <string name="upgrade_out_of_memory_retry">Retry upgrade</string>
   <string name="upgrade_out_of_memory_uninstall">Uninstall some applications</string>
@@ -1095,7 +1053,6 @@ Choose one of the following options:"</string>
   <string name="voicemail_status_messages_waiting">"Can't connect to voicemail server. New voicemails are waiting."</string>
   <string name="voicemail_status_voicemail_not_available">"Can't connect to voicemail server."</string>
   <string name="websiteLabelsGroup">Website</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>

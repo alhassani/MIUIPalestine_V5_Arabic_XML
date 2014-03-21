@@ -297,9 +297,7 @@
   <string name="default_contacts_countrycode_hint_miui">مثلا: 02</string>
   <string name="default_contacts_countrycode_miui">رمز الدولة الافتراضي لجهات الاتصال</string>
   <string name="default_contacts_countrycode_sum_miui">ضبط رمز الدولة الافتراضي لجهات الاتصال الخاصة بك: %s.</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;لم يتم تعيينه&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">حذف</string>
   <string name="deleteAllSimEntries">حذف جميع الاسماء على البطاقة</string>
   <string name="deleteSimContacts">جاري حذف الاسماء عن البطاقة</string>
@@ -367,7 +365,6 @@
   <string name="dtmf_tones_summary_miui">ضبط طول نغمات DTMF</string>
   <string name="dtmf_tones_title">نغمات DTMF</string>
   <string name="dtmf_tones_title_miui">نغمات DTMF</string>
-  <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">تعديل</string>
   <string name="edit_custom_location_title_miui">تخصيص الاسناد الاقليمي، اسناد الارقام، wildcards # مدعومة</string>
   <string name="edit_fdn_contact">تعديل رقم الاتصال الثابت</string>
@@ -921,10 +918,7 @@
   <string name="sip_accounts">حسابات اتصالات الانترنت (ISP)</string>
   <string name="sip_accounts_title">الحسابات</string>
   <string name="sip_add_account_tip_text">يرجى ادخل حساب SIP لاستخدامة مع مكالمات الانترنت</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">ارسل دوما</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">لجميع المكالمات عند وجود اتصال بيانات</string>
   <string name="sip_call_options_entry_2">مكالمات انترنت فقط</string>
   <string name="sip_call_options_entry_3">اسأل لكل مكالمة</string>
@@ -993,7 +987,6 @@
   <string name="summary_manage_subscriptions">ادارة اعدادات الشبكة لكل اشتراك</string>
   <string name="t9_indexing_method_pinyin">PinYin</string>
   <string name="t9_indexing_method_title_miui">قاموس T9</string>
-  <string name="t9_indexing_method_zhuyin">ZhuYin</string>
   <string name="t9_indexing_rebuilding_message">يتم اعادة بناء قاموس T9...</string>
   <string name="technology_news_disable">الاخبار التكنلوجيه معطلة</string>
   <string name="technology_news_enable">الاخبار التكنلوجيه مفعلة</string>
@@ -1085,5 +1078,4 @@
   <string name="xdivert_status">حالة X-Divert</string>
   <string name="xdivert_sub_absent">سيتم تفعيل الاشتراكين لمعالجة X-Divert</string>
   <string name="xdivert_summary">اعدادات CFNRc</string>
-  <string name="xdivert_title">X-Divert</string>
 </resources>

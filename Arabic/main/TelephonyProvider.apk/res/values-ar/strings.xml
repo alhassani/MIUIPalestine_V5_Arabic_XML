@@ -5,7 +5,5 @@
   <string name="default_cateogry_intermediary">وسيط</string>
   <string name="default_cateogry_meal_delivery">توصيل الطعام</string>
   <string name="default_cateogry_sales">المبيعات</string>
-  <string name="mms_provider_label">MMS</string>
   <string name="mms_sms_provider_label">المراسلات</string>
-  <string name="sms_provider_label">SMS</string>
 </resources>

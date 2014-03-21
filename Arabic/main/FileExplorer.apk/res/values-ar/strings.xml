@@ -81,7 +81,6 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">حافظة فارغة</string>
   <string name="dlg_error_unmount_text">تعذر تشغيل تخزين USB. حاول في وقت لاحق.</string>
-  <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">فشل التنزيل!</string>
   <string name="download_link_completed">لقد قمت بمشاركة %1$s عبر MiDrive. اضغط على الرابط التالي للمشاهدة:</string>
   <string name="downloading">جاري التنزيل...</string>
@@ -118,11 +117,8 @@
   <string name="ftp_transfer_secure">نقل FTP امن</string>
   <string name="ftp_username_and_passworld">اسم المستخدم وكلمة المرور</string>
   <string name="ftp_username_hint">اسم المستخدم</string>
-  <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
-  <string name="garbage_item_path_format" formatted="false">%s %s</string>
   <string name="garbage_size_metric">"%s مخلفات"</string>
   <string name="gbk_summary">اذا كنت تستخدم تشفير GBK، قم باستخدام هذا الخيار لتجنب الترميز الصيني الغير صحيح</string>
-  <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">الغاء التظيف</string>
   <string name="header_text_cleaned">حذف المخلفات</string>
   <string name="header_text_cleaning">اكتمل تنظيف المخلفات</string>
@@ -131,7 +127,6 @@
   <string name="instruction">أدخل العنوان التالي في عميل FTP الخاص بك:</string>
   <string name="instruction_pre">بدء الخدمة لتمكين خادم FTP</string>
   <string name="item_name">لا يوجد اسم</string>
-  <string name="kuaipan_label">Kuaipan</string>
   <string name="kuaipan_over_space">MiDrive الخاص بك ليس لديه مساحة كافية.</string>
   <string name="kuaipan_prompt">مساعدة MiDrive</string>
   <string name="kuaipan_prompt_message">الخادم غير متوفر حالياً، يرجى المحاولة في وقت لاحق.</string>
@@ -142,7 +137,6 @@
   <string name="login_reg_content">MiDrive يساعدك على تخزين الملفات ومزامنتها بين أجهزة متعددة.</string>
   <string name="login_reg_content0">MiDrive هو خدمة التخزين السحابي الخاصة بك</string>
   <string name="menu_item_cleanup">تنظيف الملفات</string>
-  <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">البحث</string>
   <string name="menu_item_sort">فرز حسب</string>
   <string name="menu_item_sort_date">التاريخ</string>
@@ -237,8 +231,8 @@
   <string name="show_message">لا يمكن فتح الملف من دون تنزيل</string>
   <string name="sign_description">يتم تسجيل الدخول...</string>
   <string name="signin_error">الشبكة غير متوفره حالياً. يرجى المحاولة لاحقاً.</string>
-  <string name="signin_success">"Sign in successful!
-Get free space %1$s"</string>
+  <string name="signin_success">"تم تسجيل الدخول بنجاح!
+ احصل على %1$s مجانية"</string>
   <string name="space_info">مساحة الشبكة: %1$s متوفر، الحجم: %2$s</string>
   <string name="space_usage">الاستخدام</string>
   <string name="start_cleanup">بدء التنظيف</string>

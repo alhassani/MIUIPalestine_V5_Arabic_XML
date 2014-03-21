@@ -139,7 +139,6 @@
   <string name="preferences_default_reminder_title">وقت التذكير الافتراضي</string>
   <string name="preferences_general_title">إعداد عرض التقويم</string>
   <string name="preferences_hide_declined_title">إخفاء الأحداث التي تم رفضها</string>
-  <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">توقيت مدينتك الأصلية</string>
   <string name="preferences_reminder_title">إعدادات التذكير</string>
   <string name="preferences_show_week_num_title">إظهار رقم الأسبوع</string>

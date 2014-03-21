@@ -69,7 +69,6 @@
   <string name="HIPS_Group_Location">الموقع</string>
   <string name="HIPS_Group_PIM">المعلومات الشخصية</string>
   <string name="HIPS_Group_PhoneID">هوية الهاتف</string>
-  <string name="HIPS_Group_ROOT">ROOT</string>
   <string name="HIPS_Perm_AdjustRingerVolume">ضبط صوت الرنين</string>
   <string name="HIPS_Perm_AdjustVolumeInCall">ضبط الصوت في المكالمة</string>
   <string name="HIPS_Perm_AllowAll">السماح للكل</string>

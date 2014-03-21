@@ -46,7 +46,6 @@
   <string name="dialog_confirm_abort">هل تريد تجاهل تغييراتك؟</string>
   <string name="done">تم</string>
   <string name="every_day">كل يوم</string>
-  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="hour">ساعة واحدة</string>
   <string name="hour_unit">ساعة</string>
   <string name="hours">%s ساعة</string>

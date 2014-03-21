@@ -30,8 +30,6 @@
   <string name="batch_connect_control">إدارة اتصالات التطبيقات</string>
   <string name="cancel_txt">إلغاء</string>
   <string name="cannot_find_sms_cmd">لم يعثر على أمر الرسائل القصيرة</string>
-  <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
-  <string name="carrier_none_cmcc">%1$s, %2$s</string>
   <string name="carrier_query_number_brand">نوع الخدمة</string>
   <string name="carrier_query_number_carrier">المشغل</string>
   <string name="carrier_query_number_location">نسبة</string>
@@ -79,8 +77,6 @@
   <string name="menu_sort_by_name">ترتيب حسب الاسم</string>
   <string name="menu_traffic_adjust">ضبط استهلاك البيانات</string>
   <string name="menu_traffic_settings">إعدادات استهلاك البيانات</string>
-  <string name="mobile_traffic">2G/3G: %s</string>
-  <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">إعدادات استهلاك البيانات الشهرية</string>
   <string name="notify_carrier_settings_title">لم يتم اعداد مزود الخدمة. هل تريد اعدادة الان؟</string>
   <string name="notify_traffic_settings_cancel_hint">سيتم تعطيل التنبيهات ومراقبة الاستهلاك. الخروج الان؟</string>
@@ -91,7 +87,7 @@
   <string name="plate_traffic_already_used">مستخدم (%s)</string>
   <string name="plate_traffic_exceed">تجاوز (%s)</string>
   <string name="plate_traffic_remain">باقي</string>
-  <string name="powered_by">الدعم التقني من androidway.net</string>
+  <string name="powered_by">الدعم التقني من miuiarabia.com</string>
   <string name="pref_category_adjust_traffic">ضبط إعدادات استهلاك البيانات</string>
   <string name="pref_connect_settings_enable_backgroung">تمكين خدمات الخلفية</string>
   <string name="pref_connect_settings_enable_backgroung_hint">السماح بالتوصيل التلقائي إلى الشبكة عند تشغيل التطبيق في الخلفية</string>
@@ -126,10 +122,8 @@
   <string name="sync_traffic_no_cmd_detail">ادخل اسم مدينتك، مشغل البيانات و رقم SIM في هذا المنتتدى: http://www.miui.com/forum-172-1.html شكراً لك (لا يعمل خارج الصين)</string>
   <string name="sync_traffic_no_cmd_title">لا يوجد نماذج SMS</string>
   <string name="sync_traffic_success">مزامنة بيانات المشغل, تم ضبط استهلاك البيانات بنجاح</string>
-  <string name="text_day"/>
   <string name="text_done">تم</string>
   <string name="text_save">حفظ</string>
-  <string name="traffic_none">N/A</string>
   <string name="traffic_remain">الباقي</string>
   <string name="traffic_settings_error">هناك خطأ في إعداداتك لاستهلاك البيانات الشهرية المجانية. وفقا لإعداداتك ورسائل المشغل القصيرة, استهلاك البيانات الشهرية المجانية هو: %1$s واستهلاك البيانات المتبقية: %2$s.</string>
   <string name="traffic_suffix">استهلاك البيانات</string>
@@ -149,12 +143,6 @@
   <string name="updating">جاري التحديث...</string>
   <string name="used_flux">استخدام الشبكة</string>
   <string name="version_label">"النسخة: "</string>
-  <string name="warning_settings_toast">"%1$d%% %2$dMB"</string>
   <string name="warning_title">تحذير</string>
-  <string name="widget_color_exceed_warn">\#F9882C</string>
-  <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
-  <string name="widget_color_used_all">\#C00203</string>
-  <string name="wifi_traffic">Wi-Fi: %s</string>
-  <string name="wifi_type">Wi-Fi</string>
   <string name="traffic_protection_unknown">لا اعلم، سأقوم بضبطة لاحقاً</string>
 </resources>

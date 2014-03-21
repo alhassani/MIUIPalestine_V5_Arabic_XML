@@ -73,6 +73,5 @@
   <string name="turn_off_xunlei_message">قد تواجه سرعة تنزيل بطيئة</string>
   <string name="turn_off_xunlei_title">تعطيل محرك التنزيل Xunlei</string>
   <string name="xunlei_brand">يعمل بنظام Xunlei</string>
-  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_switch">محرك التنزيل Xunlei</string>
 </resources>

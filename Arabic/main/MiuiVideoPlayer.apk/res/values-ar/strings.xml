@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="about_app_name">MiPlayer</string>
   <string name="about_title">حول</string>
-  <string name="about_version">V4.0</string>
   <string name="adjust_position_next_media_notice">التالي</string>
   <string name="adjust_position_prev_media_notice">السابق</string>
   <string name="airkan_control_device_des">تستطيع التحكم في تشغيل الفيديو من خلال ازرار التحكم في لااسفل</string>
-  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
   <string name="airkan_video_playing">تشغيل</string>
   <string name="airkan_video_playing_in">يتم تشغيل الفيديو في</string>
-  <string name="app_name">MiVideo</string>
   <string name="buffering">تخزين مؤقت...</string>
   <string name="buffering_video_netplay_label_v5">تخزين مؤقت</string>
   <string name="loading_video_netplay_label">تحميل، يرجى الانتظار...</string>

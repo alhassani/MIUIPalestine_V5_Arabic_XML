@@ -303,28 +303,18 @@
   <string name="message_compose_error_invalid_email">بعض عناوين البريد الإلكتروني غير صالحة</string>
   <string name="message_compose_error_no_recipients">يلزم إضافة مستلم واحد على الأقل.</string>
   <string name="message_compose_from_label">من:</string>
-  <string name="message_compose_fwd_header_fmt">"
-
--------- الرسالة الأصلية --------
+  <string name="message_compose_fwd_header_fmt">"-------- الرسالة الأصلية --------
 الموضوع: %1$s
 من: %2$s
 إلى: %3$s
-نسخة إلى: %4$s
-
-"</string>
+نسخة إلى: %4$s"</string>
   <string name="message_compose_include_quoted_text_checkbox_label">تضمين نص</string>
   <string name="message_compose_insert_quick_response_list_title">إدراج رد سريع</string>
   <string name="message_compose_quoted_text_label">نص مقتبس</string>
-  <string name="message_compose_reply_header_fmt">"
-
-%s كتَب:
-
-"</string>
+  <string name="message_compose_reply_header_fmt">"%s كتَب:"</string>
   <string name="message_compose_subject_hint">الموضوع</string>
   <string name="message_compose_to_hint">إلى</string>
   <string name="message_decode_error">حدث خطأ أثناء فك ترميز الرسالة.</string>
-  <string name="message_delete_dialog_title">
-  </string>
   <string name="message_discarded_toast">تمّ إلغاء الرسالة.</string>
   <string name="message_is_empty_description">بدون موضوع</string>
   <string name="message_list_load_more_messages_action">تحميل المزيد من الرسائل</string>
@@ -376,7 +366,6 @@
   <string name="more_than_999">+999</string>
   <string name="move_action">نقل</string>
   <string name="move_to_folder_dialog_title">نقل إلى</string>
-  <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="newer_action">Newer</string>
   <string name="next_action">التالي</string>
   <string name="notification_multiple_new_messages_fmt">%1$d من الرسائل الجديدة</string>

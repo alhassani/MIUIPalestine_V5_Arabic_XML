@@ -42,7 +42,7 @@
   <string name="download_line1">من: \"%1$s\"</string>
   <string name="download_line2">اسم الملف: %1$s</string>
   <string name="download_line3">حجم الملف: %1$s</string>
-  <string name="download_line5">جارٍ استلام الملف...</string>
+  <string name="download_line5">يتم استلام الملف...</string>
   <string name="download_ok">موافق</string>
   <string name="download_succ_line5">تم استلام الملف</string>
   <string name="download_succ_ok">فتح</string>

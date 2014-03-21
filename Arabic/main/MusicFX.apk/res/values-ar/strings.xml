@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="app_name">MusicFX</string>
   <string name="bass_boost_strength">تحسين الجهير</string>
-  <string name="ci_extreme">FX Booster</string>
   <string name="eq_dialog_title">المعادل</string>
   <string name="headset_plug">الرجاء توصيل سماعات الرأس للاستماع إلى هذه التأثيرات</string>
   <string name="main_toggle_effects_title">تأثيرات الصوت</string>

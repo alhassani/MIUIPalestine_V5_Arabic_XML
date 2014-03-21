@@ -158,8 +158,6 @@
   <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
-  <string name="status_bar_date_format">MMMM d, yyyy</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
   <string name="status_bar_network_flow">"Today:%1$s    Remain:%2$s    Package:%3$s"</string>
   <string name="status_bar_network_flow_exceed">"Today:%1$s    Exceeded:%2$s    Package:%3$s"</string>
@@ -171,7 +169,6 @@
   <string name="status_bar_recent_guide_bottom">Slide down to lock</string>
   <string name="status_bar_recent_guide_top">Slide up to close</string>
   <string name="status_bar_recent_inspect_item_title">App info</string>
-  <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Remove from list</string>
   <string name="status_bar_recording_back">Click to return to Recorder</string>
   <string name="status_bar_recording_pause">"Recording has been paused. "</string>
@@ -182,7 +179,6 @@
   <string name="status_bar_settings_settings_button">الاعدادات</string>
   <string name="status_bar_settings_signal_meter_disconnected">لا يوجد اتصال</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi متصل</string>
-  <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">اعدادات شريط الحال</string>
   <string name="status_bar_toggle_auto_brightness">اضائة تلقائية</string>
   <string name="status_bar_toggle_drive_mode">قيادة</string>

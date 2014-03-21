@@ -98,7 +98,6 @@
   <string name="notify_after_download">Notify after download</string>
   <string name="notify_after_restore">Notify after restore</string>
   <string name="ok">OK</string>
-  <string name="online_file">MiDrive</string>
   <string name="only_support_single_share">Only single file sharing is supported!</string>
   <string name="open">Open</string>
   <string name="operation_delete">Delete</string>
