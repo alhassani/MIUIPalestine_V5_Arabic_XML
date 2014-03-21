@@ -869,7 +869,7 @@
   <string name="resource_trial_end_restore">Finish trial</string>
   <string name="resource_trial_end_title">Trial expired</string>
   <string name="resource_trial_time">（trial for %1$d minutes）</string>
-  <string name="resource_unable_to_access">Unfortunately, the content you're looking for is not currently available in your region.</string>
+  <string name="resource_unable_to_access">"Unfortunately, the content you're looking for is not currently available in your region."</string>
   <string name="resource_unknow_error">An unknown error occurred</string>
   <string name="resource_update">Update</string>
   <string name="resource_user_know">OK</string>
