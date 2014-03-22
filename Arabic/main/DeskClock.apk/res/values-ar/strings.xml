@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="add_alarm">إضافة منبه</string>
   <string name="alarm_alert">ضبط نغمة رنين</string>
@@ -10,7 +10,7 @@
   <string name="alarm_in_silent_mode_title">المنبه في الوضع صامت</string>
   <string name="alarm_klaxon_service_desc">خدمة تشغيل الصوت بالنسبة إلى التنبيهات التي تم تعيينها في DeskClock.</string>
   <string name="alarm_label_hint">ادخل عنوان المنبة</string>
-  <string name="alarm_list_title">التنبيهات</string>
+  <string name="alarm_list_title">المنبه</string>
   <string name="alarm_notify_snooze_label">%s (غفوة)</string>
   <string name="alarm_notify_text">تحديد للغفوة أو إزالة هذا المنبه.</string>
   <string name="alarm_repeat">تكرار</string>
@@ -45,20 +45,20 @@
   <string name="delete_timezone_title">حذف المنطقة الزمنية</string>
   <string name="dialog_confirm_abort">هل تريد تجاهل تغييراتك؟</string>
   <string name="done">تم</string>
-  <string name="every_day">كل يوم</string>
+  <string name="every_day">يوميًا</string>
   <string name="hour">ساعة واحدة</string>
   <string name="hour_unit">ساعة</string>
   <string name="hours">%s ساعة</string>
-  <string name="keep_screen_on">إبقاء الشاشة مفتوحة عند التوقيت</string>
-  <string name="label">تصنيف</string>
+  <string name="keep_screen_on">إبقاء الشاشة تعمل</string>
+  <string name="label">العنوان</string>
   <string name="lap">فصل</string>
   <string name="lap_num">فصل</string>
-  <string name="legal_workday">ايام العمل القانونية</string>
+  <string name="legal_workday">أيام العمل</string>
   <string name="legal_workday_invalidate">انتهت صلاحية البيانات (حاليا، المنبة سيعمل من يوم الاثنين الى يوم الجمعة)</string>
   <string name="legal_workday_invalidate_message">(انتهت صلاحية البيانات، قم بالتحديث في الاعدادت)</string>
   <string name="legal_workday_message">(ايقاف التنبية خلال العطل)</string>
   <string name="loading_ringtone">جارٍ تحميل نغمة الرنين…</string>
-  <string name="menu_add_worldclock">إضافة منطقة زمنية</string>
+  <string name="menu_add_worldclock">منطقة جديدة</string>
   <string name="menu_desk_clock">ساعة مكتب</string>
   <string name="menu_edit_systemtime">وقت النظام</string>
   <string name="menu_item_dock_settings">إعدادات الإرساء</string>
@@ -67,7 +67,7 @@
   <string name="never">مطلقًا</string>
   <string name="pause">توقف</string>
   <string name="remind_ringtone">النغمة</string>
-  <string name="reset">استعادة</string>
+  <string name="reset">مسح</string>
   <string name="revert">تراجع</string>
   <string name="set_alarm">ضبط المنبه</string>
   <string name="settings">الإعدادات</string>
@@ -81,18 +81,18 @@
   <string name="start_up">بدء</string>
   <string name="stopwatch_lap_empty_text">لا يوجد فواصل</string>
   <string name="stopwatch_title">ساعة ايقاف</string>
-  <string name="system_time_setting">اعدادات الوقت</string>
+  <string name="system_time_setting">الإعدادات</string>
   <string name="time">الوقت</string>
   <string name="timer_alert_alert_silenced">توقف العداد بعد %d دقيقة.</string>
   <string name="timer_continue">متابعة</string>
   <string name="timer_got_it">موافق</string>
   <string name="timer_message">%1$d دقيقة</string>
   <string name="timer_message_with_hour">%1$d ساعة و  %2$d دقيقة</string>
-  <string name="timer_start_alarm">ابدء العداد</string>
+  <string name="timer_start_alarm">إنتهى المؤقت</string>
   <string name="timer_title">المؤقت</string>
   <string name="timezone_exist_error_message">فشل اضافة المنطقة الزمنية. المنطقة موجودة مسبقاً</string>
   <string name="volume_button_setting_summary">اختر ماذا تفعل الازرار عند الضغط عليها خلال التنبية</string>
-  <string name="volume_button_setting_title">الازرار الحقيقية</string>
+  <string name="volume_button_setting_title">الأزرار</string>
   <string name="workday_alarm_clock">منبة ايام العمل</string>
   <string name="worldclock_empty_text">لم يتم تحديد ساعات عالمية</string>
   <string name="worldclock_title">الساعات</string>

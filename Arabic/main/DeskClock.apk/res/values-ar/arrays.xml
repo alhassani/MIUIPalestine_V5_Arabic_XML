@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>تم ضبط المنبة على اقل من دقيقة من الان</item>
-        <item>تم ضبط المنبة على  %1$s من الان.</item>
-        <item>تم ضبط المنبة على %2$s من الان.</item>
-        <item>تم ضبط المنبة على %1$s و %2$s من الان.</item>
-        <item>تم ضبط المنبة على %3$s من الان.</item>
-        <item>تم ضبط المنبة على %1$s و %3$s من الان.</item>
-        <item>تم ضبط المنبة على %2$s و %3$s من الان.</item>
-        <item>تم ضبط المنبة على %1$s، %2$s، و %3$s من الان.</item>
+        <item>التنبيه خلال اقل من دقيقة</item>
+        <item>التنبيه خلال  %1$s</item>
+        <item>التنبيه خلال %2$s</item>
+        <item>التنبيه خلال %1$s و%2$s</item>
+        <item>التنبيه خلال %3$s</item>
+        <item>التنبيه خلال %1$s و%3$s</item>
+        <item>التنبيه خلال %2$s و%3$s</item>
+        <item>التنبيه خلال %1$s، %2$s، و %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>دقيقة</item>
@@ -20,7 +20,7 @@
         <item>30 دقيقة</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>أبداً</item>
+        <item>أبدًا</item>
         <item>دقيقة</item>
         <item>5 دقائق</item>
         <item>10 دقائق</item>
@@ -35,14 +35,14 @@
         <item>ايقاف</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>المنبة خلال اقل من دقيقة</item>
-        <item>المنبة خلال %1$s</item>
-        <item>المنبة خلال %2$s</item>
-        <item>المنبة خلال %1$s %2$s</item>
-        <item>المنبة خلالn %3$s</item>
-        <item>المنبة خلال %1$s %3$s</item>
-        <item>المنبة خلال %2$s %3$s</item>
-        <item>المنبة خلال %1$s %2$s %3$s</item>
+        <item>التنبيه خلال اقل من دقيقة</item>
+        <item>التنبيه خلال %1$s</item>
+        <item>التنبيه خلال %2$s</item>
+        <item>التنبيه خلال %1$s و%2$s</item>
+        <item>التنبيه خلال %3$s</item>
+        <item>التنبيه خلال %1$s و%3$s</item>
+        <item>التنبيه خلال %2$s و%3$s</item>
+        <item>التنبيه خلال %1$s و%2$s و%3$s</item>
     </string-array>
     <string-array name="days">
         <item>الامس</item>
