@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="account_contact_backup_info">البيانات (بيانات حساب Xiaomi و Gmail)</string>
   <string name="account_login">دخول</string>
-  <string name="account_summary">نسخ حساب Xiaomi، Google و غيرها من البيانات</string>
+  <string name="account_summary">نسخ حساب Xiaomi، Google و غيرها</string>
   <string name="already_enable_encrypt">التشفير مفعل</string>
   <string name="app_name">النسخ الاحتياطي</string>
   <string name="auto_backup">النسخ التلقائي</string>
@@ -18,10 +18,10 @@
   <string name="auto_backup_selected_user_apps">التطبيقات المحددة</string>
   <string name="auto_backup_setting">إعدادات النسخ التلقائي</string>
   <string name="auto_backup_system_data">النظام</string>
-  <string name="auto_backup_time">جدولة النسخ</string>
+  <string name="auto_backup_time">أوقات النسخ</string>
   <string name="auto_backup_user_data">التطبيقات</string>
   <string name="backup">النسخ الان</string>
-  <string name="backup_data">نسخ البيانات</string>
+  <string name="backup_data">عناصر النسخ الإحتياطي</string>
   <string name="backup_delete">حذف:</string>
   <string name="backup_empty">لا يوجد نسخ احتياطية</string>
   <string name="backup_empty_info">نسخ البيانات، الاعدادت، والتطبيقات</string>
@@ -137,7 +137,7 @@
   <string name="enable_encrypt_fail">فشل تفعيل التشفير</string>
   <string name="enable_encrypt_indicator">النسخ غير مشفر، اضغط للتمكين.</string>
   <string name="enable_encrypt_ok">موافق</string>
-  <string name="enable_encrypt_summery1">سيتم تشفير النسخ المحلية إعتمادً على حساب Xiaomi، تحتاج إلى تسجيل الدخول إلى حساب Xiaomi الخاص عند إزالة البيانات أو استخدام أجهزة أخرى لاستعادة النسخ الاحتياطي.</string>
+  <string name="enable_encrypt_summery1">سيتم تشفير النسخ المحلية إعتمادَا على حساب Xiaomi، تحتاج إلى تسجيل الدخول إلى حساب Xiaomi الخاص عند إزالة البيانات أو استخدام أجهزة أخرى لاستعادة النسخ الاحتياطي.</string>
   <string name="enable_encrypt_summery2">"سيتم تشفير النسخ االحديدة تلقائيا. تحتاج إلى تسجيل الدخول إلى حساب Xiaomi الخاص عند إزالة البيانات أو استخدام أجهزة أخرى لاستعادة النسخ الاحتياطي."</string>
   <string name="enable_encrypt_title">تفعيل التشفير</string>
   <string name="enable_encrypt_xiaomi_account">تم إنشاء هذه النسخة بواسطة %1$s، الرجاء حذف الحساب الحالي، وتسجيل الدخول إلى %2$s من أجل استعادة البيانات.</string>
@@ -156,7 +156,7 @@
   <string name="local_home_title">النسخ المحلية</string>
   <string name="local_no_backup">لا توجد نسخ محلية</string>
   <string name="local_restore_window_title">استرداد محلي</string>
-  <string name="local_select_account_contact">الحسابات / جهات الاتصال</string>
+  <string name="local_select_account_contact">الحسابات</string>
   <string name="local_select_sysdata">النظام</string>
   <string name="local_select_userapp">التطبيقات</string>
   <string name="menu_patch_delete">حذف النسخة الاحتياطية</string>
@@ -172,7 +172,7 @@
   <string name="progress_backup_hint">"يتم نسخ: "</string>
   <string name="progress_restore_hint">"يتم إستعادة: "</string>
   <string name="prompt_reading">قراءة...</string>
-  <string name="prompt_sending">رفع...</string>
+  <string name="prompt_sending">يتم التحديث...</string>
   <string name="prompt_writing">حفظ...</string>
   <string name="read_encrypt_fail">فشل قراءه التشفير</string>
   <string name="refresh">تحديث</string>
@@ -205,7 +205,7 @@
   <string name="select_all">تحديد الكل</string>
   <string name="select_backup_item">اختر عناصر</string>
   <string name="service_stoped">الخدمة متوقفة</string>
-  <string name="settings_summary">نسخ اعدادات الهاتف والمراسلات</string>
+  <string name="settings_summary">اعدادات الهاتف والمراسلات</string>
   <string name="sms_title">المراسلات</string>
   <string name="software_backup_info">نسخ التطبيقات و بيانات التطبيقات</string>
   <string name="start_backup">بدء النسخ الاحتياطي</string>
