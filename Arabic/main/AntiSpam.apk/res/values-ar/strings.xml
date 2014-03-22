@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">الحماية</string>
   <string name="bl_block_info" formatted="false">تم حظر: الرقم %d، التفاصيل %d</string>
-  <string name="bl_no_blacklist">لا يوجد ارقام</string>
+  <string name="bl_no_blacklist">فارغ</string>
   <string name="bl_no_block_call">لم يتم حظر مكالمات</string>
   <string name="bl_no_block_sms">لم يتم حظر رسائل</string>
   <string name="dlg_add_blacklist">حظر هذا الرقم؟</string>
@@ -59,19 +59,19 @@
   <string name="st_block_private_call_button">حظر الارقام الخاصة</string>
   <string name="st_block_setting_group">اعدادات الحظر</string>
   <string name="st_block_setting_title">المكالمات والرسائل</string>
-  <string name="st_block_title">الحظر والسجل</string>
+  <string name="st_block_title">حظر مع تسجيل</string>
   <string name="st_block_unknown_call">حظر الأرقام المجهولة</string>
   <string name="st_block_unknown_sms">حظر الرسائل المجهولة</string>
   <string name="st_call_group">اتصل</string>
   <string name="st_common_setting_group">اعدادات الترشيح</string>
   <string name="st_filter_keywords_setting_summary1">سيتم حظر الرسائل من الارقام المجهولة.</string>
   <string name="st_filter_keywords_setting_summary2">ادخل عدة كلمات يفصل بينهم فاصلة (,).</string>
-  <string name="st_filter_keywords_setting_title">ضبط ترشيح الكلمات الدلالية</string>
+  <string name="st_filter_keywords_setting_title">إعدادات الكلمات الدلالية</string>
   <string name="st_filter_keywords_title">ترشيح الكلمات الدلالية</string>
   <string name="st_filter_sms_button">ترشيح الرسائل المزعجة</string>
   <string name="st_mute_all">اسكات المكالمات والرسائل</string>
   <string name="st_mute_block">اسكات المكالمات وحظر الرسائل</string>
-  <string name="st_mute_title">الوضع الصامت</string>
+  <string name="st_mute_title">حظربدون تنبية</string>
   <string name="st_other_setting_group">اعدادات اخرى</string>
   <string name="st_settings_name">الاعدادات</string>
   <string name="st_show_block_notification">اظهار تنبيه بالحظر</string>
@@ -81,8 +81,8 @@
   <string name="tab_block_log_unKnowNumber">رقم غير معروف</string>
   <string name="tab_call">سجل المكالمات</string>
   <string name="tab_sms">سجل الرسائل</string>
-  <string name="tab_title">الحارس</string>
-  <string name="toast_keyword_blank">يرجى ادخال كلمة</string>
+  <string name="tab_title">الحماية</string>
+  <string name="toast_keyword_blank">يرجى ادخال نص</string>
   <string name="toast_keyword_exist">الكلمة موجوده مسبقاً</string>
   <string name="toast_keyword_invalid">تم ادخال كلمة غير صحيحة</string>
 </resources>
