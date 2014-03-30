@@ -156,7 +156,7 @@
 <string name="app_factory_reset_dlg_text">ستتم إزالة جميع تحديثات تطبيق نظام Android هذا.</string>
 <string name="app_factory_reset_dlg_title">هل تريد إزالة التحديثات؟</string>
 <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app forcibly. Are you sure you want to disable?"</string>
-<string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"'</string>
+<string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"</string>
 <string name="app_forward_locked">التطبيق محمي ضد النسخ.</string>
 <string name="app_install_location_summary">تغيير موقع التثبيت المفضل للتطبيقات الجديدة</string>
 <string name="app_install_location_title">موقع التثبيت المفضل</string>
@@ -2861,7 +2861,7 @@ Attempts Remaining :"</string>
 <string name="wifi_setup_description_connected">Touch</string>
 <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
 <string name="wifi_setup_detail">Network details</string>
-<string name="wifi_setup_eap_not_supported">You can't configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings &gt; Wireless &amp; networks\u0090</string>
+<string name="wifi_setup_eap_not_supported">"You can't configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings &gt; Wireless &amp; networks\u0090"</string>
 <string name="wifi_setup_forget">Forget</string>
 <string name="wifi_setup_next">Next</string>
 <string name="wifi_setup_not_connected">Not connected</string>
