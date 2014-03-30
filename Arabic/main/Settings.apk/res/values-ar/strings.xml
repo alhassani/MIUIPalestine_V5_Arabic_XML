@@ -1269,12 +1269,6 @@
 <string name="master_clear_button_text">إعادة تعيين الهاتف</string>
 <string name="master_clear_confirm_title">هل تريد إعادة الضبط؟</string>
 <string name="master_clear_desc">يؤدي ذلك إلى مسح جميع البيانات من وحدة التخزين الداخلية" لهاتفك، بما في ذلك:"حسابك في Google" "النظام وبيانات التطبيقات والإعدادات""التطبيقات التي تم تنزيلها</string>
-<string name=master_clear_desc_also_erases_external">"&lt;li&gt;Music&lt;/li&gt;""
-""&lt;li&gt;Photos&lt;/li&gt;""
-""&lt;li&gt;Other user data&lt;/li&gt;"</string>
-<string name=master_clear_desc_erase_external_storage">"
-
-To clear music, pictures, and other user data, the &lt;b&gt;USB storage&lt;/b&gt; needs to be erased."</string>
 <string name="master_clear_erase_application_progress">مسح التطبيقات...</string>
 <string name="master_clear_failed">لم يتم تنفيذ إعادة التعيين نظرًا لعدم توفر خدمة System Clear.</string>
 <string name="master_clear_final_button_text">مسح كل شيء</string>
