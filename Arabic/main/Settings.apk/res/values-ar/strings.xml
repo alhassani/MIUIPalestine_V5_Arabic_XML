@@ -58,11 +58,11 @@
 <string name="act_action_reject_mute">Divert incoming calls and mute messages</string>
 <string name="act_action_reject_reject">Divert incoming calls and messages</string>
 <string name="act_call">Divert calls immediately</string>
-<string name="act_del_ms">Don't display</string>
+<string name="act_del_ms">"Don't display"</string>
 <string name="act_del_ms_summary">Rejected messages will not be displayed</string>
-<string name="act_hangup_call">Don't log diverted calls</string>
+<string name="act_hangup_call">"Don't log diverted calls"</string>
 <string name="act_hangup_call_summary">Diverted calls will not appear in your call log</string>
-<string name="act_ignore_call">Don't log unwanted calls</string>
+<string name="act_ignore_call">"Don't log unwanted calls"</string>
 <string name="act_ignore_ms">Ignore notifications</string>
 <string name="act_ms">Log messages</string>
 <string name="act_mute_call">Mute unwanted calls</string>
@@ -155,8 +155,8 @@
 <string name="app_factory_reset">إزالة التحديثات</string>
 <string name="app_factory_reset_dlg_text">ستتم إزالة جميع تحديثات تطبيق نظام Android هذا.</string>
 <string name="app_factory_reset_dlg_title">هل تريد إزالة التحديثات؟</string>
-<string name="app_floating_window_dlg_disable">Disabling %1$s's floating window settings will stop the app forcibly. Are you sure you want to disable?</string>
-<string name="app_floating_window_dlg_enable">Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?</string>
+<string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app forcibly. Are you sure you want to disable?"</string>
+<string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"'</string>
 <string name="app_forward_locked">التطبيق محمي ضد النسخ.</string>
 <string name="app_install_location_summary">تغيير موقع التثبيت المفضل للتطبيقات الجديدة</string>
 <string name="app_install_location_title">موقع التثبيت المفضل</string>
@@ -713,13 +713,13 @@
 <string name="debug_layout_summary">عرض حدود وهوامش المقطع وما إلى ذلك.</string>
 <string name="debug_log">برنامج تحسين تجربة المستخدم</string>
 <string name="debug_monitoring_category">المراقبة</string>
-<string name="deep_clean_tips_cache">iconSome apps use cache files to download additional resources (e.g. song lyrics, music, images etc.). Be careful when you're cleaning up these files.</string>
+<string name="deep_clean_tips_cache">"iconSome apps use cache files to download additional resources (e.g. song lyrics, music, images etc.). Be careful when you're cleaning up these files."</string>
 <string name="deep_clean_tips_cache_content">Some apps use cache files to download additional resources. Be careful when cleaning up these files.</string>
 <string name="deep_clean_tips_cache_title">Cached files</string>
 <string name="deep_clean_tips_large_file">iconCleanup merely points out large files (i.e. bigger than 10MB) that are currently stored on your device. Only you can decide whether or not you still need them.</string>
 <string name="deep_clean_tips_large_file_content">Large files (10MB+) which take up space on your device.</string>
 <string name="deep_clean_tips_large_file_title">Large files</string>
-<string name="deep_clean_tips_residual">iconResiduals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps that have since been uninstalled. Be careful when you're cleaning up, as some of these files may still be of use to you.</string>
+<string name="deep_clean_tips_residual">"iconResiduals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps that have since been uninstalled. Be careful when you're cleaning up, as some of these files may still be of use to you."</string>
 <string name="deep_clean_tips_residual_content">Residual files downloaded to SD card by apps that have since been uninstalled</string>
 <string name="deep_clean_tips_residual_title">Residual files</string>
 <string name="deep_clean_title_cache">Cache</string>
@@ -1464,13 +1464,13 @@ Try the following:
 <string name="optimize_tips_ad">iconAd files are images, text, and other advertisement-related data which third-party service providers store on your phone.</string>
 <string name="optimize_tips_ad_content">Images, text and other ad-related content via third-party providers stored on your phone.</string>
 <string name="optimize_tips_ad_title">Advert files</string>
-<string name="optimize_tips_apk">iconInstall packages are used to install apps on your device, however they don't do anything except take up space once you've installed the app.</string>
-<string name="optimize_tips_apk_content">Used to install apps on your device, however they don't do anything once you've already installed the app.</string>
+<string name="optimize_tips_apk">"iconInstall packages are used to install apps on your device, however they don't do anything except take up space once you've installed the app."</string>
+<string name="optimize_tips_apk_content">"Used to install apps on your device, however they don't do anything once you've already installed the app."</string>
 <string name="optimize_tips_apk_title">Apps</string>
 <string name="optimize_tips_cache">iconCache files are generated by processes that only require them temporarily (e.g. thumbnails).</string>
 <string name="optimize_tips_cache_content">Temporary files created by apps and processes (e.g. thumbnails).</string>
 <string name="optimize_tips_cache_title">Cache</string>
-<string name="optimize_tips_residual">iconResiduals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps which have since been uninstalled. As some of these files may still be of use to you, we recommend that you use the Advanced featu</string>
+<string name="optimize_tips_residual">"iconResiduals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps which have since been uninstalled. As some of these files may still be of use to you, we recommend that you use the Advanced featu"</string>
 <string name="optimize_tips_residual_content">Residual content created by apps which have been uninstalled. Some files may still be required, we recommended you use the advanced cleanup feature to remove these files.</string>
 <string name="optimize_tips_residual_title">Residual files</string>
 <string name="optimize_tips_title">Help</string>
@@ -1740,14 +1740,14 @@ Try the following:
 <string name="power_dialog_cpu_state_save">Conserve battery</string>
 <string name="power_dialog_cpu_state_save_desc">Make battery life a priority over CPU performance</string>
 <string name="power_dialog_cpu_state_title">CPU usage</string>
-<string name="power_dialog_delete_dialog_cannot_delete_default">Can't delete: you're currently using this profile.</string>
+<string name="power_dialog_delete_dialog_cannot_delete_default">"Can't delete: you're currently using this profile."</string>
 <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Can't delete: Your device is set to switch to this profile when battery is low, 
  You need to change this configuration before you can delete this profile."</string>
 <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Unable to delete, your device is set to switch to this configuration when the battery recovers. You may need to change your battery settings before you can delete this mode.</string>
 <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Unable to delete, your device is set to switch to this configuration when time is up to scheduled period. You may need to change your battery settings before you can delete this mode.</string>
 <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Can't delete: Your device is scheduled to switch to this profile, 
  You need to change this configuration before you can delete this profile."</string>
-<string name="power_dialog_delete_dialog_delete">Delete custom profile and associated settings data? You can't reverse this action!</string>
+<string name="power_dialog_delete_dialog_delete">"Delete custom profile and associated settings data? You can't reverse this action!"</string>
 <string name="power_dialog_delete_dialog_title">Delete custom profile</string>
 <string name="power_dialog_ok">OK</string>
 <string name="power_dialog_screen_brightness_automatic">Adjust brightness automatically</string>
@@ -2500,13 +2500,13 @@ Attempts Remaining :"</string>
 <string name="usb_msd_title">Mass storage</string>
 <string name="usb_mtp_summary">Lets you transfer media files on Windows, or using Android File Transfer on Mac (see www.android.com/filetransfer)</string>
 <string name="usb_mtp_title">Media device (MTP)</string>
-<string name="usb_ptp_summary">Lets you transfer photos using camera software, and transfer any files on computers that don't support MTP</string>
+<string name="usb_ptp_summary">"Lets you transfer photos using camera software, and transfer any files on computers that don't support MTP"</string>
 <string name="usb_ptp_title">Camera (PTP)</string>
 <string name="usb_tethering_active_subtext">Tethered</string>
 <string name="usb_tethering_available_subtext">USB connected, check to tether</string>
 <string name="usb_tethering_button_text">USB tethering</string>
 <string name="usb_tethering_errored_subtext">USB tethering error</string>
-<string name="usb_tethering_storage_active_subtext">Can't tether when USB storage is in use</string>
+<string name="usb_tethering_storage_active_subtext">"Can't tether when USB storage is in use"</string>
 <string name="usb_tethering_unavailable_subtext">USB not connected</string>
 <string name="usb_title">USB</string>
 <string name="use_default_tts_settings_summary">Default settings below override app settings</string>
@@ -2532,7 +2532,7 @@ Attempts Remaining :"</string>
 <string name="user_dict_settings_context_menu_delete_title">Delete</string>
 <string name="user_dict_settings_context_menu_edit_title">Edit</string>
 <string name="user_dict_settings_edit_dialog_title">Edit word</string>
-<string name="user_dict_settings_empty_text">You don't have any words in the user dictionary. Add a word by touching the Add (+) button.</string>
+<string name="user_dict_settings_empty_text">"You don't have any words in the user dictionary. Add a word by touching the Add (+) button."</string>
 <string name="user_dict_settings_more_languages">More languages…</string>
 <string name="user_dict_settings_summary"/>
 <string name="user_dict_settings_titlebar">User dictionary</string>
@@ -2565,7 +2565,7 @@ Attempts Remaining :"</string>
 <string name="virus_scan_app_finish">Completed</string>
 <string name="virus_scan_app_force_stop">Scan stopped</string>
 <string name="virus_scan_app_is_stop_scan">Stop virus scan?</string>
-<string name="virus_scan_app_multi_engines">You've chosen several engines, the scan may take longer.</string>
+<string name="virus_scan_app_multi_engines">"You've chosen several engines, the scan may take longer."</string>
 <string name="virus_scan_app_no_risk">No risk found</string>
 <string name="virus_scan_app_passed">Scan passed</string>
 <string name="virus_scan_app_risk">Found risks</string>
@@ -2580,7 +2580,7 @@ Attempts Remaining :"</string>
 <string name="virus_scan_can_use_wifi">Use online definitions to scan</string>
 <string name="virus_scan_clear">Clean up</string>
 <string name="virus_scan_dangerous">Risk</string>
-<string name="virus_scan_description">This app is a major risk to your phone's security.</string>
+<string name="virus_scan_description">"This app is a major risk to your phone's security."</string>
 <string name="virus_scan_file_type_risk_apk">Suspicious app (install pkg)</string>
 <string name="virus_scan_file_type_risk_installed">Suspicious app (installed)</string>
 <string name="virus_scan_file_type_virus_apk">Virus (install pkg)</string>
@@ -2697,7 +2697,7 @@ Attempts Remaining :"</string>
 <string name="vpn_missing_cert">A certificate is missing. Please edit the profile.</string>
 <string name="vpn_mppe">PPP encryption (MPPE)</string>
 <string name="vpn_name">Name</string>
-<string name="vpn_no_ca_cert">(don't verify server)</string>
+<string name="vpn_no_ca_cert">"(don't verify server)"</string>
 <string name="vpn_no_network">There is no network connection. Please try again later.</string>
 <string name="vpn_no_server_cert">(received from server)</string>
 <string name="vpn_not_used">(not used)</string>
@@ -2768,7 +2768,7 @@ Attempts Remaining :"</string>
 <string name="wifi_enable">Enable Wi-Fi</string>
 <string name="wifi_enable_watchdog_service_summary">Use Wi-Fi network only when internet connection is strong</string>
 <string name="wifi_error">Error</string>
-<string name="wifi_fail_to_scan">Can't scan for networks</string>
+<string name="wifi_fail_to_scan">"Can't scan for networks"</string>
 <string name="wifi_failed_connect_message">Failed to connect to network</string>
 <string name="wifi_failed_forget_message">Failed to forget network</string>
 <string name="wifi_failed_save_message">Failed to save network</string>
@@ -2808,7 +2808,7 @@ Attempts Remaining :"</string>
 <string name="wifi_p2p_disconnect_message">If you disconnect, your connection with %1$s will end.</string>
 <string name="wifi_p2p_disconnect_multiple_message">If you disconnect, your connection with %1$s and %2$s other devices will end.</string>
 <string name="wifi_p2p_disconnect_title">Disconnect?</string>
-<string name="wifi_p2p_failed_connect_message">Couldn't connect.</string>
+<string name="wifi_p2p_failed_connect_message">"Couldn't connect."</string>
 <string name="wifi_p2p_failed_rename_message">Failed to rename device.</string>
 <string name="wifi_p2p_menu_advanced">Advanced</string>
 <string name="wifi_p2p_menu_create_group">Create group</string>
@@ -2822,7 +2822,7 @@ Attempts Remaining :"</string>
 <string name="wifi_p2p_wps_setup">Wi-Fi protected setup</string>
 <string name="wifi_password">Password</string>
 <string name="wifi_poor_network_detection">Avoid poor connections</string>
-<string name="wifi_poor_network_detection_summary">Don't use a Wi-Fi network unless it has a good Internet connection</string>
+<string name="wifi_poor_network_detection_summary">"Don't use a Wi-Fi network unless it has a good Internet connection"</string>
 <string name="wifi_quick_toggle_summary">Turn on Wi-Fi</string>
 <string name="wifi_quick_toggle_title">Wi-Fi</string>
 <string name="wifi_remembered">Saved</string>
@@ -2869,7 +2869,7 @@ Attempts Remaining :"</string>
 <string name="wifi_setup_save">Save</string>
 <string name="wifi_setup_skip">Skip</string>
 <string name="wifi_setup_status_connecting">Connecting…</string>
-<string name="wifi_setup_status_eap_not_supported">EAP isn't supported.</string>
+<string name="wifi_setup_status_eap_not_supported">"EAP isn't supported."</string>
 <string name="wifi_setup_status_edit_network">Type network configuration</string>
 <string name="wifi_setup_status_existing_network">Connect to existing network</string>
 <string name="wifi_setup_status_new_network">Connect to new network</string>
@@ -2892,7 +2892,7 @@ Attempts Remaining :"</string>
 <string name="wifi_share_add_summary">"When you share your public Wi-Fi networks
 , you can use other users networks"</string>
 <string name="wifi_share_connect">Connect</string>
-<string name="wifi_share_connected_summary">You're connected to a public Wi-Fi network that has been shared by another user</string>
+<string name="wifi_share_connected_summary">"You're connected to a public Wi-Fi network that has been shared by another user"</string>
 <string name="wifi_share_connected_title">Network connected via MIUI shared Wi-Fi connection</string>
 <string name="wifi_share_count">You have shared %d networks</string>
 <string name="wifi_share_current_network">Current network</string>
