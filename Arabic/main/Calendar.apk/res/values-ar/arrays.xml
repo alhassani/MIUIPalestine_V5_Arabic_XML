@@ -7,42 +7,28 @@
         <item>منبة</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>بدون</item>
-        <item>0 دقيقة</item>
-        <item>دقيقة</item>
-        <item>5 دقائق</item>
-        <item>10 دقائق</item>
-        <item>15 دقيقة</item>
-        <item>20 دقيقة</item>
-        <item>25 دقيقة</item>
-        <item>30 دقيقة</item>
-        <item>45 دقيقة</item>
-        <item>ساعة</item>
-        <item>ساعتين</item>
-        <item>3 ساعات</item>
-        <item>12 ساعة</item>
-        <item>24 ساعة</item>
-        <item>يومين</item>
-        <item>أسبوع</item>
+        <item>None</item>
+        <item>0 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>1 week</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>بدون</item>
-        <item>0 دقيقة</item>
-        <item>دقيقة</item>
-        <item>5 دقائق</item>
-        <item>10 دقائق</item>
-        <item>15 دقيقة</item>
-        <item>20 دقيقة</item>
-        <item>25 دقيقة</item>
-        <item>30 دقيقة</item>
-        <item>45 دقيقة</item>
-        <item>ساعة</item>
-        <item>ساعتين</item>
-        <item>3 ساعات</item>
-        <item>12 ساعة</item>
-        <item>24 ساعة</item>
-        <item>يومين</item>
-        <item>أسبوع</item>
+        <item>None</item>
+        <item>0 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>1 week</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>المحلي الافتراضي</item>
