@@ -52,7 +52,6 @@
   <string name="audio_mode_earpiece">سماعة الأذن للهاتف</string>
   <string name="audio_mode_speaker">السماعة</string>
   <string name="audio_mode_wired_headset">سماعة رأس سلكية</string>
-  <string name="auth_username">اسم الكاتب</string>
   <string name="auth_username_summary">اسم المستخدِم المستخدَم للمصادقة</string>
   <string name="auth_username_title">اسم المستخدِم للمصادقة</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10ث</string>
@@ -697,7 +696,6 @@
   <string name="ota_unsuccessful">"لم يتم تنشيط الهاتف. ربما يلزمك البحث عن منطقة بها تغطية أفضل (بجانب نافذة أو بالخارج). حاول مرة أخرى أو اتصل بخدمة العملاء للحصول على مزيد من الخيارات."</string>
   <string name="other_settings">إعدادات الاتصال الأخرى</string>
   <string name="other_settings_miui">اعدادات اخرى</string>
-  <string name="password">كلمة المرور</string>
   <string name="password_title">كلمة المرور</string>
   <string name="pause_prompt_no">لا</string>
   <string name="pause_prompt_str">"إرسال النغمات"</string>
@@ -732,7 +730,6 @@
   <string name="pin_progress_unlock_icc_miui">فك قفل بطاقة SIM...</string>
   <string name="place_a_call1">الاشتراك 2</string>
   <string name="place_a_call2">الاشتراك 1</string>
-  <string name="port">المنفذ</string>
   <string name="port_title">رقم المنفذ</string>
   <string name="pref_custom_location_summary_miui">تخصيص الاسناد الدولي واسناد الرقم</string>
   <string name="pref_custom_location_title_miui">تخصيص الاسناد</string>
@@ -772,7 +769,6 @@
   <string name="progress_dialog_exiting_ecm">الخروج من وضع معاودة الاتصال بالطوارئ</string>
   <string name="prompt">اسأل</string>
   <string name="prompt_user">اسأل المستخدم</string>
-  <string name="proxy_address">عنوان البروكسي</string>
   <string name="proxy_address_title">عنوان وكيل صادر</string>
   <string name="pstn_phone">اتصال عبر هاتف خلوي</string>
   <string name="puk2_blocked">تم حظر PUK2 بشكل دائم</string>
@@ -869,7 +865,6 @@
   <string name="select_automatically">اختيار تلقائي</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">إرسال</string>
-  <string name="send_keepalive">ارسل KeepAlive</string>
   <string name="send_keepalive_title">إرسال رسالة للتحقق من الاتصال</string>
   <string name="separate_from_conference_miui">مكالمة واحدة</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">نوع الشبكة المفضلة متوفر فقط عند ايقاف البيانات</string>
@@ -1009,7 +1004,6 @@
   <string name="throttle_time_frame">فترة استخدام البيانات</string>
   <string name="throttle_time_frame_subtext">انقضي %1$d٪ من الدوره. الدورة التالية تبدء خلال %2$d يوم (%3$s)</string>
   <string name="title_data_settings">اعدادات البيانات</string>
-  <string name="transport">بروتوكول</string>
   <string name="transport_title">نوع النقل</string>
   <string name="tty_mode_entries_full_miui">TTY كامل</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1033,7 +1027,6 @@
   <string name="updating_fdn_contact">يتم الان تحديث رقم الاتصال الثابت</string>
   <string name="updating_settings">تحديث الاعدادات...</string>
   <string name="updating_title">تحديث اعدادات الاتصال</string>
-  <string name="username">اسم المستخدم</string>
   <string name="username_title">اسم المستخدم</string>
   <string name="ussdRunning">يتم تشغيل رمز USSD...</string>
   <string name="vibrate_on_ring_title">الاهتزاز عند الرنين</string>
