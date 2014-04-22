@@ -17,7 +17,6 @@
   <string name="administrative_disable">تم تعطيل الإداري</string>
   <string name="administrative_enable">تم تمكين الإداري</string>
   <string name="advanced_settings">الإعدادات الاختيارية</string>
-  <string name="advanced_settings_container">الاعدادات المتقدمة</string>
   <string name="advanced_settings_hide">▽ المس لإخفاء الكل</string>
   <string name="advanced_settings_show">▷ المس لإظهار الكل</string>
   <string name="advertisements_disable">تم تعطيل الإعلانات</string>
@@ -351,10 +350,8 @@
   <string name="disable_pin_ok">تم تعطيل رقم التعريف الشخصي لبطاقة SIM.</string>
   <string name="disable_sim_pin">تعطيل رقم التعريف الشخصي لبطاقة SIM</string>
   <string name="disable_sim_pin_miui">تعطيل رمز PIN لبطاقة SIM</string>
-  <string name="display_name">اسم العرض</string>
   <string name="display_name_summary">&lt;مثل اسم المستخدم&gt;</string>
   <string name="display_name_title">اسم العرض</string>
-  <string name="domain_address">نطاق SIP</string>
   <string name="domain_address_title">الخادم</string>
   <string name="doneButton">تم</string>
   <string name="dtmf_tone_enable_title">نغمات لوحة الاتصال</string>
