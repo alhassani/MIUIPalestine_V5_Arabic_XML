@@ -974,7 +974,7 @@
 <string name="fw_blocked">سجل المنع</string>
 <string name="fw_blocked_count" formatted="false">تم منع %d مكالمه و %d رسالة</string>
 <string name="fw_call" formatted="false">وقت المكالمة: %s (%d)</string>
-<string name="fw_call_imported">استيراد سجل المكالمات/string>
+<string name="fw_call_imported">استيراد سجل المكالمات</string>
 <string name="fw_call_muted">تم اصمات المكالمه.</string>
 <string name="fw_call_rejected">تم تحويل المكالمه.</string>
 <string name="fw_clear_all_keyword">مسح جميع الكلمات</string>
@@ -1039,7 +1039,7 @@
 <string name="headset_calibrate">اعدادات الازرار</string>
 <string name="headset_calibrate_apply">تطبيق</string>
 <string name="headset_calibrate_confirm">حفظ الاعدادات؟</string>
-<string name="headset_calibrate_hint">يرجى الضغط على الزر العلوي/string>
+<string name="headset_calibrate_hint">يرجى الضغط على الزر العلوي</string>
 <string name="headset_calibrate_next_track">المسار التالي</string>
 <string name="headset_calibrate_prev_track">المسار السابق</string>
 <string name="headset_calibrate_success">تم تطبيق الاعدادات</string>
