@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">انتهت صلاحية حساب Weibo. يرجى اعادة الاتصال</string>
   <string name="access_token_invalid_warning">حساب Weibo خاطئ . يرجى اعادة الاتصال</string>
   <string name="account">الحساب</string>
-  <string name="account_dspt">يستطيع حساب شايومي مزامنة ونسخ الرسائل، جهات الاتصال، الصور وغيرها.</string>
+  <string name="account_dspt">يستطيع حساب شيومي مزامنة ونسخ الرسائل، جهات الاتصال، الصور وغيرها.</string>
   <string name="account_hint_text">بريد الكتروني\رقم هاتف</string>
   <string name="account_name">الحساب: %1$s</string>
   <string name="activate_phone_failed_notif_title">تعذر تفعيل خدمات MiCloud</string>
@@ -64,13 +64,13 @@
   <string name="checking_account">يتم التحقق من الحساب...</string>
   <string name="checking_input">يتم التحقق من المدخلات...</string>
   <string name="cloud_messaging">مراسلات MiCloud</string>
-  <string name="cmcc_data_sync_notice">استخدم حساب شايومي الخاص بك لمزامنة الرسائل، جهات الاتصال و بيانات اخرى. في الوقت الحالي، استمتع بخدمات شايومي السحابية.</string>
+  <string name="cmcc_data_sync_notice">استخدم حساب شيومي الخاص بك لمزامنة الرسائل، جهات الاتصال و بيانات اخرى. في الوقت الحالي، استمتع بخدمات شيومي السحابية.</string>
   <string name="cmcc_micloud_dspt">تشمل الخدمات السحابية مزامنة الهاتف، مكان الهاتف، ومميزات اخرى. تستطيع اداره بياناتك عبر الانترنت في اي وقت.</string>
   <string name="completed">اكتمل</string>
   <string name="confirm">تأكيد</string>
   <string name="current_account">الحساب الحالي</string>
   <string name="data_keep_in_phone">الابقاء على خدمة البيانات</string>
-  <string name="data_sync_notice">استخدم حسابك في شايومي لمزامنة الرسائلن جهات الاتصال، وباقي البيانات</string>
+  <string name="data_sync_notice">استخدم حسابك في شيومي لمزامنة الرسائلن جهات الاتصال، وباقي البيانات</string>
   <string name="data_wipe_from_phone">إزالة من الجهاز</string>
   <string name="dirty_contacts_count">%d جهة اتصال</string>
   <string name="dirty_mms_count">%d رسالة</string>
@@ -94,7 +94,7 @@
   <string name="failed_to_send_activate_email">تعذر ارسال بريد التفعيل</string>
   <string name="find_device">تحديد مكان الجهاز</string>
   <string name="find_device_check_phone_error_title">تعذر تفعيل العثور على الهاتف</string>
-  <string name="find_device_disabled_notice">تستطيع الوصول اليها من خلال: الضبط - الحسابات والمزامنة - حساب شايومي</string>
+  <string name="find_device_disabled_notice">تستطيع الوصول اليها من خلال: الضبط - الحسابات والمزامنة - حساب شيومي</string>
   <string name="find_device_disabled_title">تم تعطيل العثور على الجهاز</string>
   <string name="find_device_disabling">يتم التعطيل...</string>
   <string name="find_device_enabling">يتم التفعيل...</string>
@@ -122,17 +122,17 @@
   <string name="master_alert_notif_dspt" formatted="false">"خلال هذه الفتره قمت باضافة %s جهة اتصال، %s رسالة قصيرة، %sصورة، %s ملاحظة، وبيانات اخرى.
 اذا فقدت هاتفك او تم مسحه سيتم فقدان البيانات بشكل دائم. من المستحسن استعادة المزامنة للتأكد من امن البيانات."</string>
   <string name="master_alert_notif_title">لم يتم مزامنة البيانات منذ %s</string>
-  <string name="micloud_account">حساب شايومي</string>
+  <string name="micloud_account">حساب شيومي</string>
   <string name="micloud_account_details">تفاصيل الحساب</string>
   <string name="micloud_account_label">الحساب: %1$s</string>
-  <string name="micloud_account_name">حساب شايومي</string>
+  <string name="micloud_account_name">حساب شيومي</string>
   <string name="micloud_account_not_actived">الحساب غير مفعل</string>
-  <string name="micloud_activate_account_fail_notify_title">فشل تفعيل حساب شايومي الخاص بك</string>
-  <string name="micloud_activate_account_success_notify_title">تم تفعيل حساب شايومي بنجاح</string>
+  <string name="micloud_activate_account_fail_notify_title">فشل تفعيل حساب شيومي الخاص بك</string>
+  <string name="micloud_activate_account_success_notify_title">تم تفعيل حساب شيومي بنجاح</string>
   <string name="micloud_activate_back_btn">الغاء</string>
   <string name="micloud_activate_retry_btn">اعادة التفعيل</string>
-  <string name="micloud_activating_account_notify_info">يتم تفعيل حساب شايومي الخاص بك</string>
-  <string name="micloud_activating_account_notify_title">يتم تفعيل حساب شايومي...</string>
+  <string name="micloud_activating_account_notify_info">يتم تفعيل حساب شيومي الخاص بك</string>
+  <string name="micloud_activating_account_notify_title">يتم تفعيل حساب شيومي...</string>
   <string name="micloud_active_alert_title">تفعيل الحساب</string>
   <string name="micloud_active_email_sent_1">تم ارسال بريد التفعيل الى بريدك:</string>
   <string name="micloud_active_email_visit">قم بزيارة %s</string>
@@ -140,7 +140,7 @@
   <string name="micloud_activing_account_delayed">يحتاج التفعيل في العادة 30 ثانية. تستطيع القيام بأمر اخر اثناء الانتظار...</string>
   <string name="micloud_activing_account_failed">فشل تفعيل حسابك</string>
   <string name="micloud_app_data">النسخة الاحتياطية من التطبيقات على MiCloud</string>
-  <string name="micloud_click_email">اضغط على الرابط في بريدك الالكتروني لتفعيل حساب شايومي الخاص بك</string>
+  <string name="micloud_click_email">اضغط على الرابط في بريدك الالكتروني لتفعيل حساب شيومي الخاص بك</string>
   <string name="micloud_click_email_to_valid">اضغط على رابط التفعيل الذي تم ارسالة اليك في صندوق الوارد</string>
   <string name="micloud_data_loading">يتم التحميل...</string>
   <string name="micloud_delete_account">إزالة الحساب</string>
@@ -178,14 +178,14 @@
   <string name="micloud_resend_active_email">اعادة ارسال بريد التفعيل</string>
   <string name="micloud_space_full_influence">مذاذ يحصل ان امتلئت مساحة التخزين؟</string>
   <string name="micloud_storage_space">مساحة حساب MiCloud</string>
-  <string name="micloud_summary">قم بتسجيل الدخول الى جساب شايومي الخاص بك لمزامنة جهات الاتصال، صور الالبوم، و خصائص اخرى.</string>
+  <string name="micloud_summary">قم بتسجيل الدخول الى جساب شيومي الخاص بك لمزامنة جهات الاتصال، صور الالبوم، و خصائص اخرى.</string>
   <string name="micloud_title_dspt" formatted="false">"المساحة الكلية %s
  المستخدم %s | المتبقي %s"</string>
   <string name="micloud_title_full_dspt">تم بلوغ حدود التخزين</string>
   <string name="micloud_use_existing">موجود</string>
   <string name="micloud_user_base_info">معلومات المستخدم</string>
   <string name="micloud_user_email">البريد</string>
-  <string name="micloud_user_id">هوية شايومي</string>
+  <string name="micloud_user_id">هوية شيومي</string>
   <string name="micloud_user_name">اسم المستخدم</string>
   <string name="micloud_user_phone">رقم الهاتف</string>
   <string name="micloud_user_space_usage">المساحة المستخدمة</string>
@@ -199,7 +199,7 @@
   <string name="micloud_web_discription_01">قم بتسجيل الدخول على http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">لتخزين بياناتك و الوصول اليها في اي وقت</string>
   <string name="micloud_welcome_skip_login">تخط التسجيل</string>
-  <string name="my_xiaomi_account">حساب شايومي الخاص بي</string>
+  <string name="my_xiaomi_account">حساب شيومي الخاص بي</string>
   <string name="next">التالي</string>
   <string name="noRemind">بدون تنبية</string>
   <string name="nobind">لا يوحد تصريح</string>
@@ -219,7 +219,7 @@
   <string name="relogin">دخول</string>
   <string name="remove_account_notice">ماذا تريد ان تفعل بالرسائل، جهات الاتصال، سجل المكالمات و الملاحظات التي تم مزامنتها على جهازك؟</string>
   <string name="remove_confirm">حذف</string>
-  <string name="remove_unactivated_account_notice">لم يتم تفعيل حساب شايومي. هل تريد ازالتة الان؟</string>
+  <string name="remove_unactivated_account_notice">لم يتم تفعيل حساب شيومي. هل تريد ازالتة الان؟</string>
   <string name="removing_account">يتم ازلة الحساب...</string>
   <string name="restoreSync">استعادة المزامنة</string>
   <string name="send_int_sms_for_sync_notice">سيتم ارسال رسالة الى جهازك حسب تسعيره مشغل الشبكة الخاص بك. هل تريد المتابعة؟</string>
@@ -229,7 +229,7 @@
   <string name="show_password">إظهار كلمات المرور</string>
   <string name="sim_changed_notification_content">بطاقة SIM غير مفعلة</string>
   <string name="skip_login">تخط الدخول</string>
-  <string name="skip_setup_account_msg">باستخدم حساب شايومي الخاص بك تستطيع مزامنة الرسائل، جهات الاتصال و بيانات اخرى. المتابعة والاعداد لاحقاً؟</string>
+  <string name="skip_setup_account_msg">باستخدم حساب شيومي الخاص بك تستطيع مزامنة الرسائل، جهات الاتصال و بيانات اخرى. المتابعة والاعداد لاحقاً؟</string>
   <string name="skip_setup_account_title">تخط الاعداد</string>
   <string name="start_micloud">البدء</string>
    <string name="sub_alert_notif_dspt" formatted="false">""خلال هذه الفتره قمت باضافة %s جهة اتصال، %s رسالة قصيرة، %sصورة، %s ملاحظة، وبيانات اخرى.
@@ -246,17 +246,17 @@
   <string name="unactivated_user">تعطيل</string>
   <string name="unbind">فصل الارتباط</string>
   <string name="update_contacts">تحديث جهات الاتصال</string>
-  <string name="update_contacts_description">سيستخدم ina Weibo حساب شايومي الخاص بك لمزامنة معلومات جهات الاتصال على عده منصات.</string>
+  <string name="update_contacts_description">سيستخدم ina Weibo حساب شيومي الخاص بك لمزامنة معلومات جهات الاتصال على عده منصات.</string>
   <string name="updated_contacts">تم تحديث %s جهة اتصال</string>
   <string name="updated_nothing">لم يتم مزامنه اي عنصر</string>
   <string name="user_agreement_p1">من خلال تسجيل الدخول انت توافق على</string>
   <string name="user_agreement_p2">شروط الخدمة</string>
   <string name="user_agreement_p3">" و"</string>
-  <string name="user_agreement_p4"> من سياسة الخصوصية من شايومي</string>
+  <string name="user_agreement_p4"> من سياسة الخصوصية من شيومي</string>
   <string name="user_agreement_p5">"من خلال التسجيل انت توافق على "</string>
   <string name="vcode">رمز التفعيل</string>
   <string name="vcode_notification_title">التحقق من تسجيل دخولك غير مكتمل</string>
-  <string name="vcode_prompt_long">يرجى ادخال رمز التفعيل الذي تم تجميعة من خلال رمز شايومي</string>
+  <string name="vcode_prompt_long">يرجى ادخال رمز التفعيل الذي تم تجميعة من خلال رمز شيومي</string>
   <string name="wipe_data_dialog_msg">لم يتم مزامنة %s. اذا تابعت ستفقد البيانات.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">لم تتم مزامنة بعض العناصر</string>
