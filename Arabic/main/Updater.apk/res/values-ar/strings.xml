@@ -2,9 +2,9 @@
 <resources>
   <string name="about_device">حول الهاتف</string>
   <string name="active_xiaomi_account">فعّال</string>
-  <string name="active_xiaomi_account_msg">يرجى التوجة الى منتدى Xiaomi لتفعيل الحساب:</string>
-  <string name="active_xiaomi_account_title">تفعيل حساب Xiaomi</string>
-  <string name="app_name">المحدث</string>
+  <string name="active_xiaomi_account_msg">يرجى التوجة الى منتدى شيومي لتفعيل الحساب:</string>
+  <string name="active_xiaomi_account_title">تفعيل حساب شيومي</string>
+  <string name="app_name">تحديثات</string>
   <string name="apply_buddy_update_info_message">أضغط تحديث الآن, سيعمل الهاتف على البدء في عملية التحديث</string>
   <string name="apply_existing_update_md5error_title">توقيع MD5 لا يتطابق</string>
   <string name="apply_later_button_text">تطبيق لاحقا</string>
@@ -20,9 +20,9 @@
   <string name="best_update">2. افضل تحديث</string>
   <string name="boot_recovery">إعادة التشغيل لوضع الإسترداد</string>
   <string name="cancel_download_buton_text">إلغاء</string>
-  <string name="check_update">تفقد التحديثات</string>
-  <string name="check_update_policy">فحص إعدادات التحديث</string>
-  <string name="check_update_when_wifi_available">بحث عن التحديثات باستخدام WLAN فقط</string>
+  <string name="check_update">بحث عن تحديث</string>
+  <string name="check_update_policy">اعدادات التحديث</string>
+  <string name="check_update_when_wifi_available">بحث عن التحديثات باستخدام Wi-Fi فقط</string>
   <string name="checking_for_updates">البحث عن التحديثات...</string>
   <string name="choose_recommend">الرجاء اختيار أي الاثنين أو عدم التوصية</string>
   <string name="confirm_download_cancelation_dialog_message">هل أنت متأكد أنك تريد إلغاء عملية التنزيل الحالية؟</string>
@@ -48,7 +48,7 @@
   <string name="install_email">تثبيت تطبيق البريد الإلكتروني</string>
   <string name="install_file_explorer">الرجاء تثبيت مستكشف الملفات</string>
   <string name="install_qq">تثبيت تطبيق QQ</string>
-  <string name="install_rom_from_sd">تحديد حزمة التثبيت</string>
+  <string name="install_rom_from_sd">اختر ملف للتثبيت</string>
   <string name="install_sina">تثبيت تطبيق Sina</string>
   <string name="install_whole_rom">ينصح بتنزيل النظام كامل</string>
   <string name="internal_build">نسخة داخلية</string>
@@ -99,7 +99,7 @@
   <string name="share_update">مشاركة معلومات تحديث النظام</string>
   <string name="share_update_content_sign">لقد تم تحديث MIUI إلى %1$s! ترتيب تحديث المستخدم هو %2$s. لسجل التغييرات المفصل, الرجاء زيارة %3$s</string>
   <string name="share_update_content_unsign">لقد تم تحديث MIUI إلى %1$s! لسجل التغييرات المفصل, الرجاء زيارة %2$s</string>
-  <string name="sign_in_add_account">يرجى تفعيل حساب Xiaomi</string>
+  <string name="sign_in_add_account">يرجى تفعيل حساب شيومي</string>
   <string name="sign_in_add_account_helper">هاتفك ليس لديه حساب MIUI نشط, اضاف واحد للحصول على نقاط مستخدم</string>
   <string name="sign_in_info">نقاط التحديث الخاصة بك هي (%1$s). المستخدمين بنقاط اعلى من (%2$s) تم تسجيلهم لميوي (%3$s)</string>
   <string name="sign_in_info_rank_more">نقاط التحديث الخاصة بك هي (%1$s). المستخدمين بنقاط اعلى من (%2$s) تم تسجيلهم لميوي (%3$s)</string>
