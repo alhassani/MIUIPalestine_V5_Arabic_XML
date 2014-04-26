@@ -2026,7 +2026,7 @@ Try the following:
 <string name="screen_key_long_press_timeout">Long press timeout</string>
 <string name="screen_never_timeout_title">Always on</string>
 <string name="screen_on_proximity_sensor_summary">منع تشغيل الشاشة بشكل خاطئ في الجيب (بواسطة مستشعر القرب)</string>
-<string name="screen_on_proximity_sensor_title">منع التشغيل الخطئ</string>
+<string name="screen_on_proximity_sensor_title">منع التشغيل بالخطأ</string>
 <string name="screen_saturation">Color saturation</string>
 <string name="screen_saturation_adjust">اعداد تشبع اللون</string>
 <string name="screen_timeout">السكون</string>

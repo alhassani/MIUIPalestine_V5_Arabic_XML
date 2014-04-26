@@ -5,7 +5,7 @@
   <string name="access_token_invalid_warning">حساب Weibo خاطئ . يرجى اعادة الاتصال</string>
   <string name="account">الحساب</string>
   <string name="account_dspt">يستطيع حساب شيومي مزامنة ونسخ الرسائل، جهات الاتصال، الصور وغيرها.</string>
-  <string name="account_hint_text">بريد الكتروني\رقم هاتف</string>
+  <string name="account_hint_text">بريد الكتروني او رقم هاتف</string>
   <string name="account_name">الحساب: %1$s</string>
   <string name="activate_phone_failed_notif_title">تعذر تفعيل خدمات MiCloud</string>
   <string name="activate_phone_failed_notif_title_msim">تعذر بدء MiCloud لبطاقة SIM %s</string>
@@ -70,7 +70,7 @@
   <string name="confirm">تأكيد</string>
   <string name="current_account">الحساب الحالي</string>
   <string name="data_keep_in_phone">الابقاء على خدمة البيانات</string>
-  <string name="data_sync_notice">استخدم حسابك في شيومي لمزامنة الرسائلن جهات الاتصال، وباقي البيانات</string>
+  <string name="data_sync_notice">استخدم حسابك في شيومي لمزامنة الرسائل، جهات الاتصال، وباقي البيانات</string>
   <string name="data_wipe_from_phone">إزالة من الجهاز</string>
   <string name="dirty_contacts_count">%d جهة اتصال</string>
   <string name="dirty_mms_count">%d رسالة</string>
@@ -101,7 +101,7 @@
   <string name="find_device_error_network">الشبكة غير متوفرة</string>
   <string name="find_device_error_server">خطأ في الخادم</string>
   <string name="find_device_notice_p1">عند فقدان جهازك، يرجى التوجه الى</string>
-  <string name="find_device_notice_p3">للعثور على هاتفك، او قفلة او مسحة بالكامل.</string>
+  <string name="find_device_notice_p3">للعثور على الهاتف، قفلة، او مسح البيانات عنه</string>
   <string name="find_device_success_title">تم تفعيل العثور على الجهازd</string>
   <string name="find_password_on_web_msg">يرجى التوجه الى account.xiaomi.com لاستعادة كلمة المرور.</string>
   <string name="forget_password">نسيت كلمة المرور؟</string>
@@ -118,7 +118,7 @@
   <string name="login">دخول</string>
   <string name="login_failed">فشل الدخول</string>
   <string name="login_instead_reg">الدخول باستخدام رقم الهاتف</string>
-  <string name="login_notice">يتم الدخول...</string>
+  <string name="login_notice">تسجيل الدخول...</string>
   <string name="master_alert_notif_dspt" formatted="false">"خلال هذه الفتره قمت باضافة %s جهة اتصال، %s رسالة قصيرة، %sصورة، %s ملاحظة، وبيانات اخرى.
 اذا فقدت هاتفك او تم مسحه سيتم فقدان البيانات بشكل دائم. من المستحسن استعادة المزامنة للتأكد من امن البيانات."</string>
   <string name="master_alert_notif_title">لم يتم مزامنة البيانات منذ %s</string>
@@ -252,7 +252,7 @@
   <string name="user_agreement_p1">من خلال تسجيل الدخول انت توافق على</string>
   <string name="user_agreement_p2">شروط الخدمة</string>
   <string name="user_agreement_p3">" و"</string>
-  <string name="user_agreement_p4"> من سياسة الخصوصية من شيومي</string>
+  <string name="user_agreement_p4"> سياسة الخصوصية من شيومي</string>
   <string name="user_agreement_p5">"من خلال التسجيل انت توافق على "</string>
   <string name="vcode">رمز التفعيل</string>
   <string name="vcode_notification_title">التحقق من تسجيل دخولك غير مكتمل</string>
