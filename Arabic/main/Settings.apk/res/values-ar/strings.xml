@@ -2521,7 +2521,7 @@ Attempts Remaining :"</string>
 <string name="vibrate_when_ringing_title">Vibrate when ringing</string>
 <string name="virus_activity_title">فايروس</string>
 <string name="virus_button_clear">تنظيف</string>
-<string name="virus_scan">فخص الفايروسات</string>
+<string name="virus_scan">مضادالفايروسات</string>
 <string name="virus_scan_app_continue">المتابعى للفحص</string>
 <string name="virus_scan_app_find_risk">تم العثور على %d تطبيق يشكل نهديد. من المفضل ان يتم ازالة التطبيقات.</string>
 <string name="virus_scan_app_finish">اكتمل</string>
