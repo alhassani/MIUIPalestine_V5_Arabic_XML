@@ -865,7 +865,6 @@
   <string name="send_keepalive_title">إرسال رسالة للتحقق من الاتصال</string>
   <string name="separate_from_conference_miui">مكالمة واحدة</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">نوع الشبكة المفضلة متوفر فقط عند ايقاف البيانات</string>
-  <string name="set_primary">ضبط كرئيسي</string>
   <string name="set_primary_summary">مستخدمة للمكالمات الصادرة</string>
   <string name="set_primary_title">تعيين كحساب أساسي</string>
   <string name="set_smsc_address_error_miui">فشل ضبط رقم مركز الرسائل، يرجى المحاولة مجددا.</string>
