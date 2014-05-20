@@ -12,7 +12,7 @@
   <string name="act_set_city_re_find_side">يتم تحديد المكان...</string>
   <string name="act_weather_aqi_share">مشاركة</string>
   <string name="act_weather_aqi_title">فهرس جودة الهواء</string>
-  <string name="act_weather_cycle_link_china">شبكة الطقص الصينية</string>
+  <string name="act_weather_cycle_link_china">شبكة الطقس الصينية</string>
   <string name="act_weather_cycle_low_temp">منخفض</string>
   <string name="act_weather_cycle_update">يتم التحديث...</string>
   <string name="act_weather_find_city_connect_net">تأكد من الاتصال بالشبكة و حاول مجددا</string>
