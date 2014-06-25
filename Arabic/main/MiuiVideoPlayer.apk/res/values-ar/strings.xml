@@ -44,5 +44,5 @@
   <string name="vp_VideoView_error_network_not_available">الشبكة غير متوفرة</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">نعتذر، صيغة الفيديو المحددة غير قابلة للتشغيل</string>
   <string name="vp_VideoView_error_text_unknown">نعتذر، لا يمكن تشغيل صيغة الفيديو</string>
-  <string name="vp_VideoView_error_title">Video playback error!</string>
+  <string name="vp_VideoView_error_title">خطأ تشغيل الفيديو!</string>
 </resources>
