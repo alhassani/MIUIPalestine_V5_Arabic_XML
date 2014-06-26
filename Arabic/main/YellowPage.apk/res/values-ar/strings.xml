@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_smart_antispam_summary">About smart antispam unknown number detection</string>
-  <string name="about_telephone_fraud">About telephone fraud</string>
-  <string name="agree">Agree</string>
-  <string name="all_numbers">All numbers</string>
-  <string name="app_label">Directory</string>
+  <string name="about_smart_antispam_summary">حول المكافح الذكي للبريد التطفلي</string>
+  <string name="about_telephone_fraud">حول الإحتيال عبر الهاتف</string>
+  <string name="agree">أقبل</string>
+  <string name="all_numbers">كل الأرقام</string>
+  <string name="app_label">الدليل</string>
   <string name="balance_inquiry_default_sp_name">Operator</string>
   <string name="balance_inquiry_send_sms_hint">A free SMS message will be sent to query your balance</string>
   <string name="balance_inquiry_send_sms_summmary">Check your balance</string>
