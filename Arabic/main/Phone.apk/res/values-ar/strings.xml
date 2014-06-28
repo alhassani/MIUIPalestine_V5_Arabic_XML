@@ -74,7 +74,7 @@
   <string name="auto_ip_exception_miui">"ارقام لا تحتاج بادئة IP"</string>
   <string name="auto_ip_exception_summary_miui">%d الكل</string>
   <string name="auto_ip_exception_summary_more_miui">،... %d الكل</string>
-  <string name="auto_ip_no_exceptions_miui">"الرجائ اضافة ارقام لا تحتاج بادئة IP"</string>
+  <string name="auto_ip_no_exceptions_miui">"الرجاء اضافة ارقام لا تحتاج بادئة IP"</string>
   <string name="auto_ip_remove_exception_numbers_confirm_miui">هل انت متأكد انك تريد حذف هذه %d الارقام؟</string>
   <string name="auto_ip_setting_miui">اعددات IP تلقائيا</string>
   <string name="auto_ip_summary_not_enabled">غير مفعل</string>
@@ -143,7 +143,7 @@
   <string name="call_record_path_name_of_sdcard_miui">بطاقة SD</string>
   <string name="call_record_sd_error_miui">فشل الوصول الى بطاقة SD</string>
   <string name="call_record_sd_space_low_miui">ذاكرة SD ممتلئة. يرجى حذف بعض الملفات والمحاولة مجددا.</string>
-  <string name="call_record_setting_miui">تسجيل الاعدادات</string>
+  <string name="call_record_setting_miui">إعدادات التسجيل</string>
   <string name="call_recording_notification_summary_miui">عرض تنبية في شريط الحالة عند اكتمال التسجيل</string>
   <string name="call_recording_notification_title_miui">تنبية تسجيل المكالمات</string>
   <string name="call_recording_prompt_miui">فتح تسجيلات المكالمات</string>
@@ -155,7 +155,7 @@
   <string name="call_waiting_tone_continuously_miui">تشغيل النغمة بشكل متواصل</string>
   <string name="call_waiting_tone_stop_summary">اضغط على زر الصوت لايقاف النغمة يدويا</string>
   <string name="call_waiting_tone_title_miui">نغمة انتظار المكالمات</string>
-  <string name="call_waiting_tone_twice_and_vibrate_miui">تشغيل النغمة مرتين و الرجاج مرتين</string>
+  <string name="call_waiting_tone_twice_and_vibrate_miui">تشغيل النغمة مرتين و الإهتزاز مرتين</string>
   <string name="call_waiting_tone_twice_only_miui">تشغيل النغمة مرتين</string>
   <string name="caller_id_sum_miui">اخفاء/ عرض رقمي للمكالمات الصادرة (اذا كانت الشبكة تدعم ذلك)</string>
   <string name="caller_id_title_miui">هوية المتصل</string>
@@ -261,7 +261,7 @@
   <string name="connect_disconnect_vibrate_none_miui">لاشيء</string>
   <string name="connect_disconnect_vibrate_normal_miui">عادي</string>
   <string name="connect_disconnect_vibrate_summary_miui"/>
-  <string name="connect_disconnect_vibrate_title_miui">مستوى الرجاج عند الاستقبال/الرد/الاغلاق</string>
+  <string name="connect_disconnect_vibrate_title_miui">مستوى الإهتزاز عند الاستقبال/الرد/الاغلاق</string>
   <string name="connect_disconnect_vibrate_weak_miui">ضعيف</string>
   <string name="connect_later">يتعذر الاتصال بهذه الشبكة في الوقت الحالي. حاول مرة أخرى لاحقًا.</string>
   <string name="contactAddFailed">فشل اضافة جهة الاتصال الى بطاقة SIM!</string>
@@ -456,7 +456,7 @@
   <string name="hac_mode_summary_miui">تشغيل جهاز مساعد السمة</string>
   <string name="hac_mode_title">أدوات السمع المساعدة</string>
   <string name="hac_mode_title_miui">مساعد السمع</string>
-  <string name="handon_ringer_summary_miui">دون جدوى عند تفعيل الرجاج في المكالمات الواردة</string>
+  <string name="handon_ringer_summary_miui">دون جدوى عند تفعيل الإهتزاز في المكالمات الواردة</string>
   <string name="handon_ringer_title_miui">ايقاف الرنين عند حمل الهاتف</string>
   <string name="hangup_sms_miui">الرفض برسالة</string>
   <string name="ignore_miui">تجاهل</string>
@@ -799,7 +799,7 @@
   <string name="registration_status_server_unreachable">لم يتم تسجيل الحساب بنجاح: تحقق من اسم الخادم.</string>
   <string name="registration_status_still_trying">لا تزال المحاولة مستمرة...</string>
   <string name="reject_via_sms_miui">رفض برسالة</string>
-  <string name="reject_via_sms_summary_miui">ضبت الرسالة التي سيتم ارسالها عند الرفض</string>
+  <string name="reject_via_sms_summary_miui">ضبط الرسالة التي سيتم ارسالها عند الرفض</string>
   <string name="reject_via_sms_title_miui">اعدادات الرفض عبر رسالة</string>
   <string name="remember_my_choice">الاستخدام دومًا لإجراء مكالمات عبر الإنترنت</string>
   <string name="remove_miui">حذف</string>
