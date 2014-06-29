@@ -197,4 +197,16 @@
   <string name="widget_select_style">إخار شكل التطبيق</string>
   <string name="yearly">سنوياً (في %s)</string>
   <string name="yearly_plain">سنوياً</string>
+    <string name="month_medium_april">ابريل</string>
+  <string name="month_medium_august">اغسطس</string>
+  <string name="month_medium_december">ديسمبر</string>
+  <string name="month_medium_february">فبراير</string>
+  <string name="month_medium_january">يناير</string>
+  <string name="month_medium_july">يوليو</string>
+  <string name="month_medium_june">يونيو</string>
+  <string name="month_medium_march">مارس</string>
+  <string name="month_medium_may">ايار</string>
+  <string name="month_medium_november">نوفمبر</string>
+  <string name="month_medium_october">اكتوبر</string>
+  <string name="month_medium_september">سبتمبر</string>
 </resources>
