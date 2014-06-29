@@ -1,8 +1,15 @@
 MIUIPalestine_V5_Arabic_XML
 ===========================
 
-تم بدء الترجمة العربية عام 2012 من قبل أحمد دخل الله مؤسس فريق ميوي العربي لترجمة نظام ميوي من شركة شايومي. http://en.miui.com/
+MIUI V5 Translation by team MIUIArabia
 
-للمزيد من المعلومات وتقرير بالاخطاء او غيرها من الطلبات المتعلقه بالنظام او بالتعريب، يرجى زياره الرابط التالي:
-
+Website:
 http://miuiarabia.com
+
+Forum:
+http://miuiarabia.com/forum
+
+Contact Us:
+info@miuiarabia.com
+
+===========================
