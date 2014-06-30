@@ -23,7 +23,7 @@
   <string name="clear_and_bright">صافي ومشرق</string>
   <string name="cold_dews">ندى بارد</string>
   <string name="contact_carrier_message">يرجى التواصل مع مشغل الشبكة اذا كان لديك اي اسئلة</string>
-  <string name="days">ايام</string>
+  <string name="days">ايام %d</string>
   <string name="delete">حذف</string>
   <string name="device_hongmi">هاتف Hongmi</string>
   <string name="device_xiaomi">هاتف Xiaomi</string>
