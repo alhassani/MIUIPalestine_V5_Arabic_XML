@@ -161,12 +161,12 @@
   <string name="resource_pack_warning">Warning! you have already purchased %1$d items, current price is no longer valid for left items, please purchase them individually.</string>
   <string name="resource_present">هدية</string>
   <string name="resource_preview">معاينة</string>
-  <string name="resource_price_free">مجاني</string>
+  <string name="resource_price_free">مجانا</string>
   <string name="resource_purchase_getting_order">ستم استيراد معلومات الطلب...</string>
   <string name="resource_purchase_verifying_payment">يتم التحقق من بيانات الدفعه...</string>
   <string name="resource_purchase_waiting_payment">في انتظار بيانات الدفعه...</string>
   <string name="resource_ranking">عليها اقبال</string>
-  <string name="resource_ranking_free">مجاني</string>
+  <string name="resource_ranking_free">مجانا</string>
   <string name="resource_ranking_purchase">مدفوع</string>
   <string name="resource_ringtone_default">نعمات</string>
   <string name="resource_ringtone_playing_error">خطأ في التشغيل</string>
