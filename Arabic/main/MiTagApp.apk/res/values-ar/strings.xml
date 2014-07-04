@@ -50,7 +50,7 @@ touch it with the back of your phone"</string>
   <string name="create">إضافة</string>
   <string name="create_configs_prompt">إلمس لإضافة علامة</string>
   <string name="create_tag">جديد</string>
-  <string name="delete">جذف</string>
+  <string name="delete">حذف</string>
   <string name="deleting">يتم الحذف…</string>
   <string name="detect_empty_tag">يوجد علامة فارغة</string>
   <string name="detect_tag">يوجد علامة</string>

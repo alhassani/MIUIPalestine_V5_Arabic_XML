@@ -428,7 +428,7 @@
   <string name="storage_no_space">"لا توجد مساحة كافية."</string>
   <string name="straighten">تسوية</string>
   <string name="straighten_tooltip">إسحب الصورة لتسويتها</string>
-  <string name="sync_album">مزامنو الالبوم</string>
+  <string name="sync_album">مزامنة الالبوم</string>
   <string name="sync_album_error">فشل تحميل الصور في هذا الألبوم. يرجى إعادة المحاولة لاحقا.</string>
   <string name="sync_album_in_proecess">يتم مزامنة الألبوم، يرجى الانتظار...</string>
   <string name="sync_album_set_error">فشل تحميل قائمة الألبومات. يرجى إعادة المحاولة لاحقا.</string>
